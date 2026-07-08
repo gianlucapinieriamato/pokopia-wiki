@@ -1,4 +1,4 @@
-import { Item } from "@/app/lib/const";
+import { ALL_ITEMS } from "@/app/lib/const";
 
 export type ResolvedItem = {
   displayName: string;
@@ -29,13 +29,13 @@ export function resolveItem(name: string): ResolvedItem {
   if (ICON_OVERRIDES[name])
     return { icon: ICON_OVERRIDES[name]!, slug: undefined, displayName };
 
-  const entry = Object.values(Item).find(
+  const entry = ALL_ITEMS.find(
     (i) => i.label.toLowerCase() === displayName.toLowerCase()
   );
   if (entry) return { icon: entry.icon, slug: entry.slug, displayName };
 
   const baseName = name.endsWith(" Recipe") ? name.slice(0, -7) : name;
-  const baseEntry = Object.values(Item).find(
+  const baseEntry = ALL_ITEMS.find(
     (i) => i.label.toLowerCase() === baseName.toLowerCase()
   );
   if (baseEntry) return { icon: baseEntry.icon, slug: baseEntry.slug, displayName };

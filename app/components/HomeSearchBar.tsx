@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { POKEMON_LIST, Item, HabitatConfig, Location } from "@/app/lib/const";
+import { POKEMON_LIST, ALL_ITEMS, HabitatConfig, Location } from "@/app/lib/const";
 import Shortcut from "@/app/components/Shortcut";
 import { GlobalSearch } from "@/app/components/GlobalSearch";
 
@@ -15,7 +15,7 @@ function pick<T extends { slug: string; label: string }>(
 
 const QUICK_PICKS: { label: string; href: string }[] = [
   pick(POKEMON_LIST,                  "pikachu",     (s) => `/pokemon/${s}`),
-  pick(Object.values(Item),           "alarm-clock", (s) => `/item/${s}`),
+  pick(ALL_ITEMS,                     "alarm-clock", (s) => `/item/${s}`),
   pick(Object.values(HabitatConfig),  "beachset",    (s) => `/habitats/${s}`),
   pick(POKEMON_LIST,                  "eevee",       (s) => `/pokemon/${s}`),
   pick(Object.values(Location),       "palettetown", (s) => `/locations/${s}`),

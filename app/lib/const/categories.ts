@@ -74,6 +74,8 @@ export const Category = {
       Item.WallLight,
       Item.TownMap,
       Item.TeamRocketWallHanging,
+      Item.StarCloset,
+      Item.StarrySkyBed,
     ] as ItemConst[],
   },
   Cleanliness: {
@@ -299,6 +301,8 @@ export const Category = {
       Item.FlowerBackpack,
       Item.AdventureKit,
       Item.OilLantern,
+      Item.StarCloset,
+      Item.StarShapedDresser,
     ] as ItemConst[],
   },
   CuteStuff: {
@@ -361,6 +365,12 @@ export const Category = {
       Item.LunchBox,
       Item.HoppipWaterBottle,
       Item.FlowerBackpack,
+      Item.JirachiLamp,
+      Item.MoonClock,
+      Item.StarCloset,
+      Item.StarShapedDresser,
+      Item.StarWallDecoration,
+      Item.StarrySkyBed,
     ] as ItemConst[],
   },
   Electronics: {
@@ -440,6 +450,7 @@ export const Category = {
       Item.SurfaceLight,
       Item.Spotlight,
       Item.AntiqueChandelier,
+      Item.JirachiLamp,
     ] as ItemConst[],
   },
   Exercise: {
@@ -527,6 +538,7 @@ export const Category = {
       Item.CampingChair,
       Item.SleepingBag,
       Item.AdventureKit,
+      Item.StarrySkyBed,
     ] as ItemConst[],
   },
   Garbage: {
@@ -677,6 +689,10 @@ export const Category = {
       Item.RedCrystalFragment,
       Item.DigitalCamera,
       Item.OilLantern,
+      Item.JirachiLamp,
+      Item.StarShapedDresser,
+      Item.StarWallDecoration,
+      Item.Telescope,
     ] as ItemConst[],
   },
   GroupActivities: {
@@ -736,6 +752,7 @@ export const Category = {
       Item.FloweryTableSetting,
       Item.MapAndCompass,
       Item.Treasure,
+      Item.StarrySkyBed,
     ] as ItemConst[],
   },
   HardStuff: {
@@ -789,6 +806,9 @@ export const Category = {
       Item.StoneRoofDecoration,
       Item.StoneDebris,
       Item.MetalDebris,
+      Item.JirachiLamp,
+      Item.StarCloset,
+      Item.StarWallDecoration,
     ] as ItemConst[],
   },
   Healing: {
@@ -1144,6 +1164,8 @@ export const Category = {
       Item.DigitalCamera,
       Item.Treasure,
       Item.OilLantern,
+      Item.CloudCannon,
+      Item.Telescope,
     ] as ItemConst[],
   },
   NiceBreezes: {
@@ -1179,6 +1201,7 @@ export const Category = {
       Item.MusicMatLa,
       Item.MusicMatTi,
       Item.MusicMatHighDo,
+      Item.CloudCannon,
     ] as ItemConst[],
   },
   OceanVibes: {
@@ -1413,6 +1436,7 @@ export const Category = {
       Item.FlameOrb,
       Item.RingTarget,
       Item.ArmorFossil,
+      Item.MoonClock,
     ] as ItemConst[],
   },
   SharpStuff: {
@@ -1489,6 +1513,11 @@ export const Category = {
       Item.SilverFeather,
       Item.RedCrystalFragment,
       Item.DigitalCamera,
+      Item.JirachiLamp,
+      Item.StarCloset,
+      Item.StarShapedDresser,
+      Item.StarWallDecoration,
+      Item.StarrySkyBed,
     ] as ItemConst[],
   },
   SlenderObjects: {
@@ -1534,6 +1563,7 @@ export const Category = {
       Item.Rope,
       Item.BrokenStreetlight,
       Item.InflatableSudowoodo,
+      Item.Telescope,
     ] as ItemConst[],
   },
   SoftStuff: {
@@ -1604,6 +1634,7 @@ export const Category = {
       Item.CampingChair,
       Item.SleepingBag,
       Item.AdventureKit,
+      Item.StarrySkyBed,
     ] as ItemConst[],
   },
   SpinningStuff: {
@@ -1794,6 +1825,9 @@ export const Category = {
       Item.TundraFossilTail,
       Item.InflatableSudowoodo,
       Item.DigitalCamera,
+      Item.CloudCannon,
+      Item.StarShapedDresser,
+      Item.Telescope,
     ] as ItemConst[],
   },
   Symbols: {
@@ -1854,6 +1888,9 @@ export const Category = {
       Item.FlowerGarland,
       Item.InflatableSudowoodo,
       Item.JewelWallDecoration,
+      Item.MoonClock,
+      Item.StarWallDecoration,
+      Item.Telescope,
     ] as ItemConst[],
   },
   WobblyStuff: {
@@ -1879,6 +1916,7 @@ export const Category = {
       Item.Tires,
       Item.ResortLight,
       Item.InflatableSudowoodo,
+      Item.MoonClock,
     ] as ItemConst[],
   },
   WoodenStuff: {
@@ -1924,6 +1962,7 @@ export const Category = {
       Item.CuttingBoard,
       Item.MushroomLamp,
       Item.StoneFragments,
+      Item.StarCloset,
     ] as ItemConst[],
   },
 } as const;

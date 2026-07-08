@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Item, Category, POKEMON_LIST } from "@/app/lib/const";
+import { ALL_ITEMS, Category, POKEMON_LIST } from "@/app/lib/const";
 import type { ItemConst, CategoryConst } from "@/app/lib/const";
 import JsonLd from "@/app/components/JsonLd";
 import { SITE_URL } from "@/app/lib/config";
@@ -14,7 +14,6 @@ import PageWrap from "@/app/components/PageWrap";
 import Breadcrumb from "@/app/components/Breadcrumb";
 import PageHeader from "@/app/components/PageHeader";
 
-const ALL_ITEMS = Object.values(Item);
 const ALL_CATS = Object.values(Category);
 
 const pkmnCountByCat: Record<string, number> = {};

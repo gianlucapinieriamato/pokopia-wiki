@@ -4,7 +4,7 @@ import { useRouter } from "next/navigation";
 import Image from "next/image";
 import {
   POKEMON_LIST,
-  Item,
+  ALL_ITEMS,
   HabitatConfig,
   Location,
   pkmnIconUrl,
@@ -45,7 +45,7 @@ const POKEMON_IDX: Hit[] = POKEMON_LIST.map((p) => ({
   kind: "pokemon", slug: p.slug, label: p.label,
   icon: pkmnIconUrl(p), num: dexNum(p),
 }));
-const ITEM_IDX: Hit[]     = Object.values(Item).map((it) => ({ kind: "item", slug: it.slug, label: it.label, icon: it.icon }));
+const ITEM_IDX: Hit[]     = ALL_ITEMS.map((it) => ({ kind: "item", slug: it.slug, label: it.label, icon: it.icon }));
 const HABITAT_IDX: Hit[]  = Object.values(HabitatConfig).map((h) => ({ kind: "habitat", slug: h.slug, label: h.label }));
 const LOCATION_IDX: Hit[] = Object.values(Location).map((l) => ({ kind: "location", slug: l.slug, label: l.label }));
 
