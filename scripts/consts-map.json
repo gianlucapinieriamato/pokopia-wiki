@@ -1143,6 +1143,8 @@
   "Item::dandy-flowers": "Item.DandyFlowers",
   "Item::dowsing-machine": "Item.DowsingMachine",
   "Item::duckweed": "Item.Duckweed",
+  "Item::dynamic-ditto-print": "Item.DynamicDittoPrint",
+  "Item::dynamic-ditto-print-wallpaper": "Item.DynamicDittoPrintWallpaper",
   "Item::frying-pan": "Item.FryingPan",
   "Item::high-up-location": "Item.HighUpLocation",
   "Item::hot-spring-water": "Item.HotSpringWater",

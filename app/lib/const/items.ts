@@ -1024,6 +1024,16 @@ export const Item = {
     label: "Dry yellow-green shoots",
     icon: "/icons/items/dryyellow-greenshoots.png",
   },
+  DynamicDittoPrint: {
+    slug: "dynamic-ditto-print",
+    label: "Dynamic Ditto print",
+    icon: "/icons/items/dynamicdittoprint.png",
+  },
+  DynamicDittoPrintWallpaper: {
+    slug: "dynamic-ditto-print-wallpaper",
+    label: "Dynamic Ditto print (wallpaper)",
+    icon: "/icons/items/dynamicdittoprint(wallpaper).png",
+  },
   EcruteakCity: {
     slug: "ecruteak-city",
     label: "Ecruteak City",

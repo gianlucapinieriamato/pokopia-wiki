@@ -7368,6 +7368,26 @@ export const ITEM_RECIPES: Record<string, CraftingRecipe> = {
         qty: 1,
       }
     ]
+  },
+  "dynamic-ditto-print": {
+    "category": "Blocks",
+    "unlock": "Purchase Expansion Pass",
+    "materials": [
+      {
+        item: Item.Twine,
+        qty: 2,
+      }
+    ]
+  },
+  "dynamic-ditto-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Purchase Expansion Pass",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 1,
+      }
+    ]
   }
 } as const;
 
