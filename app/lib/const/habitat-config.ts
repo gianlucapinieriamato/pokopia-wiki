@@ -4273,7 +4273,7 @@ export const HabitatConfig = {
     slug: "lumberjacksworkplace",
     label: "Lumberjack's workplace",
     description:
-      "",
+      "Haul logs with the cart and split them on the tree stump. The chair is there for taking breaks",
     requirements: [
       // TODO: Item.logchair not found in items.ts
       {
@@ -4289,7 +4289,7 @@ export const HabitatConfig = {
     slug: "professorstreasuretrove",
     label: "Professor's treasure trove",
     description:
-      "",
+      "It may look like a bunch of junk, but every single piece here is worthy of study to a professor",
     requirements: [
     ],
   },
@@ -4297,7 +4297,7 @@ export const HabitatConfig = {
     slug: "nothinbutpokeballs",
     label: "Nothin' but Poke Balls",
     description:
-      "",
+      "All Poke Balls...or so you thought! Living here is oddly comforting somehow",
     requirements: [
       // TODO: Item.pokeballsofa not found in items.ts
       // TODO: Item.pokeballbed not found in items.ts
@@ -4309,7 +4309,7 @@ export const HabitatConfig = {
     slug: "gourmetsaltar",
     label: "Gourmet's altar",
     description:
-      "",
+      "Putting an offering of food on this platter would surely delight Pokemon who live to eat",
     requirements: [
       // TODO: Item.offeringdish not found in items.ts
     ],
@@ -4318,7 +4318,7 @@ export const HabitatConfig = {
     slug: "chefskitchen",
     label: "Chef's kitchen",
     description:
-      "",
+      "With a stove, a sink, and some key cooking equipment, this place is a chef's dream",
     requirements: [
       // TODO: Item.cookingstove not found in items.ts
       // TODO: Item.modernsink not found in items.ts
@@ -4331,7 +4331,7 @@ export const HabitatConfig = {
     slug: "fortune-tellerstable",
     label: "Fortune-teller's table",
     description:
-      "",
+      "Maybe using psychic power to peer into the crystal ball will give you a glimpse of the future...",
     requirements: [
       // TODO: Item.crystalball not found in items.ts
     ],
@@ -4340,7 +4340,7 @@ export const HabitatConfig = {
     slug: "professorsapprenticeprogram",
     label: "Professor's apprentice program",
     description:
-      "",
+      "Keep up with your research, and someday you might become as wide and learned as Professor Tangrowth!",
     requirements: [
       {
         type: "item" as const,
@@ -4361,7 +4361,7 @@ export const HabitatConfig = {
     slug: "researchersdesk",
     label: "Researcher's desk",
     description:
-      "",
+      "Today's research topic is Pokemon's role in science! Some data has been entered into the computer",
     requirements: [
       {
         type: "item" as const,
@@ -4376,7 +4376,7 @@ export const HabitatConfig = {
     slug: "naturesmarket",
     label: "Nature's market",
     description:
-      "",
+      "Just power up the cash register, and you'll be able to trade with your friends-even out in nature!",
     requirements: [
       // TODO: Item.largeboulder not found in items.ts
       // TODO: Item.cashregister not found in items.ts
@@ -4386,7 +4386,7 @@ export const HabitatConfig = {
     slug: "gamersparadise",
     label: "Gamer's paradise",
     description:
-      "",
+      "A space perfectly tailored for gaming. Take a seat and immerse yourself in the world of games!",
     requirements: [
       // TODO: Item.gamingbed not found in items.ts
       // TODO: Item.gamingpc not found in items.ts
@@ -4398,7 +4398,7 @@ export const HabitatConfig = {
     slug: "maliciousknightsshrine",
     label: "Malicious knight's shrine",
     description:
-      "",
+      "A slightly eerie space where a mysterious ritual appears to be underway...",
     requirements: [
       // TODO: Item.maliciousarmor not found in items.ts
       // TODO: Item.steppingstones not found in items.ts
@@ -4414,7 +4414,7 @@ export const HabitatConfig = {
     slug: "auspiciousknightsshrine",
     label: "Auspicious knight's shrine",
     description:
-      "",
+      "A slightly mystical space where a mysterious ritual appears to be underway...",
     requirements: [
       // TODO: Item.auspiciousarmor not found in items.ts
       // TODO: Item.steppingstones not found in items.ts
