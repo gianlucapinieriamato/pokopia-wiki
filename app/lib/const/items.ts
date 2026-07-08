@@ -4296,7 +4296,7 @@ export const Item = {
   },
   BeachPokemonCenterKit: {
     slug: "beach-pokemon-center-kit",
-    label: "Beach Pokémon Center kit",
+    label: "Beach Pokemon Center kit",
     icon: "/icons/items/beachpokemoncenterkit.png",
   },
   BeanSeeds: {
@@ -5911,77 +5911,77 @@ export const Item = {
   },
   PokeBallDoormat: {
     slug: "poke-ball-doormat",
-    label: "Poké Ball Doormat",
+    label: "Poke Ball Doormat",
     icon: "/icons/items/pokeballdoormat.png",
   },
   PokeBallHouseKit: {
     slug: "poke-ball-house-kit",
-    label: "Poké Ball house kit",
+    label: "Poke Ball house kit",
     icon: "/icons/items/pokeballhousekit.png",
   },
   PokeBallMat: {
     slug: "poke-ball-mat",
-    label: "Poké Ball Mat",
+    label: "Poke Ball Mat",
     icon: "/icons/items/pokeballmat.png",
   },
   PokeBallPrint: {
     slug: "poke-ball-print",
-    label: "Poké Ball print",
+    label: "Poke Ball print",
     icon: "/icons/items/pokeballprint.png",
   },
   PokeBallPrintWallpaper: {
     slug: "poke-ball-print-wallpaper",
-    label: "Poké Ball print (wallpaper)",
+    label: "Poke Ball print (wallpaper)",
     icon: "/icons/items/pokeballprint(wallpaper).png",
   },
   PokeBallTable: {
     slug: "poke-ball-table",
-    label: "Poké Ball table",
+    label: "Poke Ball table",
     icon: "/icons/items/pokeballtable.png",
   },
   PokeBallWall: {
     slug: "poke-ball-wall",
-    label: "Poké Ball Wall",
+    label: "Poke Ball Wall",
     icon: "/icons/items/pokeballwall.png",
   },
   PokeBallWallWallpaper: {
     slug: "poke-ball-wall-wallpaper",
-    label: "Poké Ball wall (wallpaper)",
+    label: "Poke Ball wall (wallpaper)",
     icon: "/icons/items/pokeballwall(wallpaper).png",
   },
   PokeMartKit: {
     slug: "poke-mart-kit",
-    label: "Poké Mart kit",
+    label: "Poke Mart kit",
     icon: "/icons/items/pokemartkit.png",
   },
   PokemonCenterCounter: {
     slug: "pokemon-center-counter",
-    label: "Pokémon Center counter",
+    label: "Pokemon Center counter",
     icon: "/icons/items/pokemoncentercounter.png",
   },
   PokemonCenterRebuildKit: {
     slug: "pokemon-center-rebuild-kit",
-    label: "Pokémon Center rebuild kit",
+    label: "Pokemon Center rebuild kit",
     icon: "/icons/items/pokemoncenterrebuildkit.png",
   },
   PokemonCenterWallLower: {
     slug: "pokemon-center-wall-lower",
-    label: "Pokémon Center wall (lower)",
+    label: "Pokemon Center wall (lower)",
     icon: "/icons/items/pokemoncenterwall(lower).png",
   },
   PokemonCenterWallMiddle: {
     slug: "pokemon-center-wall-middle",
-    label: "Pokémon Center wall (middle)",
+    label: "Pokemon Center wall (middle)",
     icon: "/icons/items/pokemoncenterwall(middle).png",
   },
   PokemonCenterWallTrim: {
     slug: "pokemon-center-wall-trim",
-    label: "Pokémon Center wall (trim)",
+    label: "Pokemon Center wall (trim)",
     icon: "/icons/items/pokemoncenterwall(trim).png",
   },
   PokemonCenterWallUpper: {
     slug: "pokemon-center-wall-upper",
-    label: "Pokémon Center wall (upper)",
+    label: "Pokemon Center wall (upper)",
     icon: "/icons/items/pokemoncenterwall(upper).png",
   },
   PolkaDotPrint: {
@@ -6111,7 +6111,7 @@ export const Item = {
   },
   RidgePokemonCenterKit: {
     slug: "ridge-pokemon-center-kit",
-    label: "Ridge Pokémon Center kit",
+    label: "Ridge Pokemon Center kit",
     icon: "/icons/items/ridgepokemoncenterkit.png",
   },
   RipeBeanPlantGrow: {
@@ -6316,7 +6316,7 @@ export const Item = {
   },
   SkylandPokemonCenterKit: {
     slug: "skyland-pokemon-center-kit",
-    label: "Skyland Pokémon Center kit",
+    label: "Skyland Pokemon Center kit",
     icon: "/icons/items/skylandpokemoncenterkit.png",
   },
   Skylight: {
@@ -6581,7 +6581,7 @@ export const Item = {
   },
   StylishCafeKit: {
     slug: "stylish-cafe-kit",
-    label: "Stylish Café kit",
+    label: "Stylish Cafe kit",
     icon: "/icons/items/stylishcafekit.png",
   },
   StylishCookingPot: {
@@ -6631,12 +6631,12 @@ export const Item = {
   },
   StylishPokeBallPrint: {
     slug: "stylish-poke-ball-print",
-    label: "Stylish Poké Ball print",
+    label: "Stylish Poke Ball print",
     icon: "/icons/items/stylishpokeballprint.png",
   },
   StylishPokeBallPrintWallpaper: {
     slug: "stylish-poke-ball-print-wallpaper",
-    label: "Stylish Poké Ball print (wallpaper)",
+    label: "Stylish Poke Ball print (wallpaper)",
     icon: "/icons/items/stylishpokeballprint(wallpaper).png",
   },
   StylishSteps: {
@@ -6846,7 +6846,7 @@ export const Item = {
   },
   WastelandPokemonCenterKit: {
     slug: "wasteland-pokemon-center-kit",
-    label: "Wasteland Pokémon Center kit",
+    label: "Wasteland Pokemon Center kit",
     icon: "/icons/items/wastelandpokemoncenterkit.png",
   },
   WastepaperOutdoor: {

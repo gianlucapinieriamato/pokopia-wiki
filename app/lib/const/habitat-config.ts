@@ -4275,14 +4275,30 @@ export const HabitatConfig = {
     description:
       "Haul logs with the cart and split them on the tree stump. The chair is there for taking breaks",
     requirements: [
-      // TODO: Item.logchair not found in items.ts
+      {
+        type: "item" as const,
+        item: Item.LogChair,
+        label: "Log chair",
+        qty: 1,
+      },
       {
         type: "item" as const,
         item: Item.Cart,
         label: "Cart",
         qty: 1,
       },
-      // TODO: Item.logtable not found in items.ts
+      {
+        type: "group" as const,
+        groupKey: "tree stump",
+        label: "Tree stump (any)",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.LogTable,
+        label: "Log table",
+        qty: 1,
+      },
     ],
   },
   Professorstreasuretrove: {
@@ -4291,6 +4307,24 @@ export const HabitatConfig = {
     description:
       "It may look like a bunch of junk, but every single piece here is worthy of study to a professor",
     requirements: [
+      {
+        type: "item" as const,
+        item: Item.ProfessorSTreasureTrove,
+        label: "Professor's treasure trove",
+        qty: 1,
+      },
+      {
+        type: "group" as const,
+        groupKey: "lost relic (large)",
+        label: "Lost relic (large) (any)",
+        qty: 4,
+      },
+      {
+        type: "group" as const,
+        groupKey: "bed",
+        label: "Bed (any)",
+        qty: 1,
+      },
     ],
   },
   Nothinbutpokeballs: {
@@ -4299,10 +4333,30 @@ export const HabitatConfig = {
     description:
       "All Poke Balls...or so you thought! Living here is oddly comforting somehow",
     requirements: [
-      // TODO: Item.pokeballsofa not found in items.ts
-      // TODO: Item.pokeballbed not found in items.ts
-      // TODO: Item.pokeballtable not found in items.ts
-      // TODO: Item.pokeballlight not found in items.ts
+      {
+        type: "item" as const,
+        item: Item.PokeBallSofa,
+        label: "Poke Ball Sofa",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.PokeBallBed,
+        label: "Poke Ball bed",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.PokeBallTable,
+        label: "Poke Ball table",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.PokeBallLight,
+        label: "Poke Ball light",
+        qty: 1,
+      },
     ],
   },
   Gourmetsaltar: {
@@ -4311,7 +4365,12 @@ export const HabitatConfig = {
     description:
       "Putting an offering of food on this platter would surely delight Pokemon who live to eat",
     requirements: [
-      // TODO: Item.offeringdish not found in items.ts
+      {
+        type: "item" as const,
+        item: Item.OfferingDish,
+        label: "Offering dish",
+        qty: 1,
+      },
     ],
   },
   Chefskitchen: {
@@ -4320,11 +4379,42 @@ export const HabitatConfig = {
     description:
       "With a stove, a sink, and some key cooking equipment, this place is a chef's dream",
     requirements: [
-      // TODO: Item.cookingstove not found in items.ts
-      // TODO: Item.modernsink not found in items.ts
-      // TODO: Item.plaintable not found in items.ts
-      // TODO: Item.stylishcookingpot not found in items.ts
-      // TODO: Item.cuttingboard not found in items.ts
+      {
+        type: "item" as const,
+        item: Item.CookingStove,
+        label: "Cooking stove",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.ModernSink,
+        label: "Modern sink",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.PlainTable,
+        label: "Plain table",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.StylishCookingPot,
+        label: "Stylish cooking pot",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.CuttingBoard,
+        label: "Cutting board",
+        qty: 1,
+      },
+      {
+        type: "group" as const,
+        groupKey: "plated food",
+        label: "Plated food (any)",
+        qty: 1,
+      },
     ],
   },
   FortuneTellerstable: {
@@ -4333,7 +4423,24 @@ export const HabitatConfig = {
     description:
       "Maybe using psychic power to peer into the crystal ball will give you a glimpse of the future...",
     requirements: [
-      // TODO: Item.crystalball not found in items.ts
+      {
+        type: "group" as const,
+        groupKey: "seat",
+        label: "Seat (any)",
+        qty: 2,
+      },
+      {
+        type: "group" as const,
+        groupKey: "table",
+        label: "Table (any)",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.CrystalBall,
+        label: "Crystal ball",
+        qty: 1,
+      },
     ],
   },
   Professorsapprenticeprogram: {
@@ -4348,7 +4455,18 @@ export const HabitatConfig = {
         label: "Whiteboard",
         qty: 1,
       },
-      // TODO: Item.jumbledcords not found in items.ts
+      {
+        type: "group" as const,
+        groupKey: "table",
+        label: "Table (any)",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.JumbledCords,
+        label: "Jumbled cords",
+        qty: 1,
+      },
       {
         type: "item" as const,
         item: Item.Laptop,
@@ -4364,12 +4482,23 @@ export const HabitatConfig = {
       "Today's research topic is Pokemon's role in science! Some data has been entered into the computer",
     requirements: [
       {
+        type: "group" as const,
+        groupKey: "table",
+        label: "Table (any)",
+        qty: 2,
+      },
+      {
         type: "item" as const,
         item: Item.Computer,
         label: "Computer",
         qty: 1,
       },
-      // TODO: Item.scienceexperiment not found in items.ts
+      {
+        type: "item" as const,
+        item: Item.ScienceExperiment,
+        label: "Science experiment",
+        qty: 1,
+      },
     ],
   },
   Naturesmarket: {
@@ -4378,8 +4507,30 @@ export const HabitatConfig = {
     description:
       "Just power up the cash register, and you'll be able to trade with your friends-even out in nature!",
     requirements: [
-      // TODO: Item.largeboulder not found in items.ts
-      // TODO: Item.cashregister not found in items.ts
+      {
+        type: "group" as const,
+        groupKey: "large tree",
+        label: "Large tree (any)",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.LargeBoulder,
+        label: "Large boulder",
+        qty: 1,
+      },
+      {
+        type: "group" as const,
+        groupKey: "table",
+        label: "Table (any)",
+        qty: 2,
+      },
+      {
+        type: "item" as const,
+        item: Item.CashRegister,
+        label: "Cash register",
+        qty: 1,
+      },
     ],
   },
   Gamersparadise: {
@@ -4388,10 +4539,36 @@ export const HabitatConfig = {
     description:
       "A space perfectly tailored for gaming. Take a seat and immerse yourself in the world of games!",
     requirements: [
-      // TODO: Item.gamingbed not found in items.ts
-      // TODO: Item.gamingpc not found in items.ts
-      // TODO: Item.gamingchair not found in items.ts
-      // TODO: Item.gamingfridge not found in items.ts
+      {
+        type: "item" as const,
+        item: Item.GamingBed,
+        label: "Gaming bed",
+        qty: 1,
+      },
+      {
+        type: "group" as const,
+        groupKey: "table",
+        label: "Table (any)",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.GamingPC,
+        label: "Gaming PC",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.GamingChair,
+        label: "Gaming chair",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.GamingFridge,
+        label: "Gaming fridge",
+        qty: 1,
+      },
     ],
   },
   Maliciousknightsshrine: {
@@ -4400,13 +4577,29 @@ export const HabitatConfig = {
     description:
       "A slightly eerie space where a mysterious ritual appears to be underway...",
     requirements: [
-      // TODO: Item.maliciousarmor not found in items.ts
-      // TODO: Item.steppingstones not found in items.ts
+      {
+        type: "group" as const,
+        groupKey: "pedestal",
+        label: "Pedestal (any)",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.MaliciousArmor,
+        label: "Malicious Armor",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.SteppingStones,
+        label: "Stepping stones",
+        qty: 2,
+      },
       {
         type: "item" as const,
         item: Item.Firepit,
         label: "Firepit",
-        qty: 1,
+        qty: 2,
       },
     ],
   },
@@ -4416,13 +4609,29 @@ export const HabitatConfig = {
     description:
       "A slightly mystical space where a mysterious ritual appears to be underway...",
     requirements: [
-      // TODO: Item.auspiciousarmor not found in items.ts
-      // TODO: Item.steppingstones not found in items.ts
+      {
+        type: "group" as const,
+        groupKey: "pedestal",
+        label: "Pedestal (any)",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.AuspiciousArmor,
+        label: "Auspicious Armor",
+        qty: 1,
+      },
+      {
+        type: "item" as const,
+        item: Item.SteppingStones,
+        label: "Stepping stones",
+        qty: 2,
+      },
       {
         type: "item" as const,
         item: Item.Firepit,
         label: "Firepit",
-        qty: 1,
+        qty: 2,
       },
     ],
   },

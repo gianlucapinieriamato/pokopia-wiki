@@ -8206,7 +8206,7 @@ export const ITEM_RECIPES: Record<string, CraftingRecipe> = {
   },
   "puffy-tree-pillar": {
     "category": "Blocks",
-    "unlock": "Register 40 Pokémon",
+    "unlock": "Register 40 Pokemon",
     "materials": [
       {
         item: Item.Leaf,
@@ -8542,7 +8542,7 @@ export const ITEM_RECIPES: Record<string, CraftingRecipe> = {
   },
   "wall-mounted-table": {
     "category": "Furniture",
-    "unlock": "Regsiter 240 Pokémon",
+    "unlock": "Register 240 Pokemon",
     "materials": [
       {
         item: Item.Lumber,
