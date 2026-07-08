@@ -3,7 +3,7 @@ export const dynamic = "force-static";
 import {
   POKEMON_BY_SLUG,
   Category,
-  Item,
+  ALL_ITEMS,
   Specialty,
   HabitatConfig,
   Location,
@@ -36,7 +36,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: LAST_UPDATED, changeFrequency: "monthly", priority: 0.6,
   }));
 
-  const itemRoutes: MetadataRoute.Sitemap = Object.values(Item).map((item) => ({
+  const itemRoutes: MetadataRoute.Sitemap = ALL_ITEMS.map((item) => ({
     url: `${SITE_URL}/item/${item.slug}/`,
     lastModified: LAST_UPDATED, changeFrequency: "monthly", priority: 0.5,
   }));

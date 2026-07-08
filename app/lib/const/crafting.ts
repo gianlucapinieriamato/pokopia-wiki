@@ -7368,6 +7368,1321 @@ export const ITEM_RECIPES: Record<string, CraftingRecipe> = {
         qty: 1,
       }
     ]
+  },
+  "dynamic-ditto-print": {
+    "category": "Blocks",
+    "unlock": "Purchase Expansion Pass",
+    "materials": [
+      {
+        item: Item.Twine,
+        qty: 2,
+      }
+    ]
+  },
+  "dynamic-ditto-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Purchase Expansion Pass",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 1,
+      }
+    ]
+  },
+  "aged-stone-flooring": {
+    "category": "Blocks",
+    "unlock": "Rocky Ridges (Item)",
+    "materials": [
+      {
+        item: Item.Stone,
+        qty: 2,
+      }
+    ]
+  },
+  "aged-stone-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "aged-stone-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "arched-tiling-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "argyle-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "brick-border-corner": {
+    "category": "Buildings",
+    "unlock": "Shop (as bundle) - Bleak Beach Lv. 8",
+    "materials": [
+      {
+        item: Item.Brick,
+        qty: 2,
+      }
+    ]
+  },
+  "brick-border-line": {
+    "category": "Buildings",
+    "unlock": "Shop (as bundle) - Bleak Beach Lv. 6",
+    "materials": [
+      {
+        item: Item.Brick,
+        qty: 2,
+      }
+    ]
+  },
+  "brick-border-single": {
+    "category": "Buildings",
+    "unlock": "Shop (as bundle) - Bleak Beach Lv. 7",
+    "materials": [
+      {
+        item: Item.Brick,
+        qty: 2,
+      }
+    ]
+  },
+  "brick-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "brick-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "broken-tiling-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "bronze-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "bubble-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "carved-light-brown-rock": {
+    "category": "Blocks",
+    "unlock": "Shop - Palette Town Lv. 9",
+    "materials": [
+      {
+        item: Item.LightBrownRock,
+        qty: 1,
+      }
+    ]
+  },
+  "cloth-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "cobblestone-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "concrete-border-corner": {
+    "category": "Buildings",
+    "unlock": "Shop as bundle (Sparkling Skylands Lv. 6)",
+    "materials": [
+      {
+        item: Item.Concrete,
+        qty: 2,
+      }
+    ]
+  },
+  "concrete-border-line": {
+    "category": "Buildings",
+    "unlock": "Shop as bundle (Sparkling Skylands Lv. 6)",
+    "materials": [
+      {
+        item: Item.Concrete,
+        qty: 2,
+      }
+    ]
+  },
+  "concrete-border-single": {
+    "category": "Buildings",
+    "unlock": "Shop as bundle (Sparkling Skylands Lv. 6)",
+    "materials": [
+      {
+        item: Item.Concrete,
+        qty: 2,
+      }
+    ]
+  },
+  "concrete-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "confectionery-wall-lower": {
+    "category": "Blocks",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+
+    ]
+  },
+  "confectionery-wall-middle": {
+    "category": "Blocks",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Lumber,
+        qty: 2,
+      }
+    ]
+  },
+  "confectionery-wall-upper": {
+    "category": "Blocks",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Lumber,
+        qty: 2,
+      }
+    ]
+  },
+  "crisscross-wooden-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "crystal-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "cube-light-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "curry-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "cyber-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "dark-marble-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "diagonal-wooden-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "felt-mat-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "fish-scale-tiling-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "flower-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "fluffy-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "gingham-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "gold-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "grass-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "hardwood-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "hay-pile-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "hexagonal-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "horizontal-stripe-print": {
+    "category": "Blocks",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Twine,
+        qty: 2,
+      }
+    ]
+  },
+  "horizontal-stripe-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "houndstooth-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "iron-pipe-downward-curve": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.IronOre,
+        qty: 2,
+      }
+    ]
+  },
+  "iron-pipe-downward-t": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.IronOre,
+        qty: 2,
+      }
+    ]
+  },
+  "iron-pipe-horizontal": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.IronOre,
+        qty: 2,
+      }
+    ]
+  },
+  "iron-pipe-horizontal-cross": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.IronOre,
+        qty: 2,
+      }
+    ]
+  },
+  "iron-pipe-horizontal-curve": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.IronOre,
+        qty: 2,
+      }
+    ]
+  },
+  "iron-pipe-horizontal-t": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.IronOre,
+        qty: 2,
+      }
+    ]
+  },
+  "iron-pipe-upward-curve": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.IronOre,
+        qty: 2,
+      }
+    ]
+  },
+  "iron-pipe-upward-t": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.IronOre,
+        qty: 2,
+      }
+    ]
+  },
+  "iron-pipe-vertical": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.IronOre,
+        qty: 2,
+      }
+    ]
+  },
+  "iron-pipe-vertical-cross": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.IronOre,
+        qty: 2,
+      }
+    ]
+  },
+  "iron-pipe-vertical-t": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.IronOre,
+        qty: 2,
+      }
+    ]
+  },
+  "iron-plating-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "iron-tiling-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "iron-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "leaf-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "levee-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "light-antique-wall-lower": {
+    "category": "Blocks",
+    "unlock": "Shop (as bundle) - Palette Town Lv. 8",
+    "materials": [
+      {
+        item: Item.Lumber,
+        qty: 1,
+      },
+      {
+        item: Item.GoldIngot,
+        qty: 1,
+      }
+    ]
+  },
+  "light-antique-wall-middle": {
+    "category": "Blocks",
+    "unlock": "Shop (as bundle) - Palette Town Lv. 8",
+    "materials": [
+      {
+        item: Item.Lumber,
+        qty: 1,
+      },
+      {
+        item: Item.GoldIngot,
+        qty: 1,
+      }
+    ]
+  },
+  "light-marble-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "light-wooden-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "lined-stone-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "marble-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "marked-road-vertical": {
+    "category": "Blocks",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Concrete,
+        qty: 2,
+      }
+    ]
+  },
+  "modern-carpeting-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "modern-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "mosaic-tiling-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "neon-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "painted-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "patterned-aged-stone-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "plaster-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "poke-ball-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "poke-ball-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "pokemon-center-wall-lower": {
+    "category": "Blocks",
+    "unlock": "Shop (as bundle) - Sparkling Skylands Lv. 9",
+    "materials": [
+      {
+        item: Item.Pokemetal,
+        qty: 2,
+      }
+    ]
+  },
+  "pokemon-center-wall-middle": {
+    "category": "Blocks",
+    "unlock": "Shop (as bundle) - Sparkling Skylands Lv. 9",
+    "materials": [
+      {
+        item: Item.Pokemetal,
+        qty: 2,
+      }
+    ]
+  },
+  "pokemon-center-wall-trim": {
+    "category": "Blocks",
+    "unlock": "Shop (as bundle) - Sparkling Skylands Lv. 9",
+    "materials": [
+      {
+        item: Item.Pokemetal,
+        qty: 2,
+      }
+    ]
+  },
+  "pokemon-center-wall-upper": {
+    "category": "Blocks",
+    "unlock": "Shop (as bundle) - Sparkling Skylands Lv. 9",
+    "materials": [
+      {
+        item: Item.Pokemetal,
+        qty: 2,
+      }
+    ]
+  },
+  "polka-dot-print": {
+    "category": "Blocks",
+    "unlock": "Shop - Withered Wastelands Lv. 10",
+    "materials": [
+      {
+        item: Item.Twine,
+        qty: 2,
+      }
+    ]
+  },
+  "polka-dot-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "puffy-tree-pillar": {
+    "category": "Blocks",
+    "unlock": "Register 40 Pokemon",
+    "materials": [
+      {
+        item: Item.Leaf,
+        qty: 1,
+      },
+      {
+        item: Item.Twine,
+        qty: 1,
+      }
+    ]
+  },
+  "puffy-tree-pillar-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "rough-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "round-pillar-lower": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Limestone,
+        qty: 4,
+      }
+    ]
+  },
+  "round-pillar-middle": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Limestone,
+        qty: 4,
+      }
+    ]
+  },
+  "round-pillar-upper": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Limestone,
+        qty: 4,
+      }
+    ]
+  },
+  "scrap-cube-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "shop-tiling-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "simple-curtain-left": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Twine,
+        qty: 1,
+      }
+    ]
+  },
+  "simple-curtain-right": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Twine,
+        qty: 1,
+      }
+    ]
+  },
+  "simple-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "simple-square-tiling-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "square-tiling-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "star-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "starry-sky-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "striped-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "stylish-bronze-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "stylish-gold-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "stylish-iron-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "stylish-poke-ball-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "stylish-stone-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "stylish-tiling-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "stylish-wall-lower": {
+    "category": "Blocks",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Seashell,
+        qty: 1,
+      },
+      {
+        item: Item.Lumber,
+        qty: 1,
+      }
+    ]
+  },
+  "stylish-wall-middle": {
+    "category": "Blocks",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Seashell,
+        qty: 1,
+      },
+      {
+        item: Item.Lumber,
+        qty: 1,
+      }
+    ]
+  },
+  "stylish-wall-upper": {
+    "category": "Blocks",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Seashell,
+        qty: 1,
+      },
+      {
+        item: Item.Lumber,
+        qty: 1,
+      }
+    ]
+  },
+  "swirl-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "tartan-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "triangle-design-flooring": {
+    "category": "Blocks",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Pokemetal,
+        qty: 2,
+      }
+    ]
+  },
+  "triangle-design-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "vertical-stripe-print": {
+    "category": "Blocks",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Twine,
+        qty: 2,
+      }
+    ]
+  },
+  "vertical-stripe-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "vine-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "wall-mounted-table": {
+    "category": "Furniture",
+    "unlock": "Register 240 Pokemon",
+    "materials": [
+      {
+        item: Item.Lumber,
+        qty: 1,
+      },
+      {
+        item: Item.IronIngot,
+        qty: 1,
+      }
+    ]
+  },
+  "warning-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "winter-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "wish-note": {
+    "category": "Other",
+    "unlock": "Befriend Jirachi",
+    "materials": [
+      {
+        item: Item.VineRope,
+        qty: 2,
+      }
+    ]
+  },
+  "wooden-border-corner": {
+    "category": "Buildings",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Lumber,
+        qty: 2,
+      }
+    ]
+  },
+  "wooden-border-line": {
+    "category": "Buildings",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Lumber,
+        qty: 2,
+      }
+    ]
+  },
+  "wooden-border-single": {
+    "category": "Buildings",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Lumber,
+        qty: 2,
+      }
+    ]
+  },
+  "wooden-flooring-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "wooden-siding-corner": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Lumber,
+        qty: 2,
+      }
+    ]
+  },
+  "wooden-siding-panel": {
+    "category": "Buildings",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Lumber,
+        qty: 2,
+      }
+    ]
+  },
+  "wooden-wall-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "woven-carpeting-wallpaper": {
+    "category": "Other",
+    "unlock": "Shop (as bundle)",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
+  },
+  "zig-zag-print": {
+    "category": "Blocks",
+    "unlock": "Daily Shop Special / Sparkling Water",
+    "materials": [
+      {
+        item: Item.Twine,
+        qty: 2,
+      }
+    ]
+  },
+  "zig-zag-print-wallpaper": {
+    "category": "Other",
+    "unlock": "Sparkling ripples in water",
+    "materials": [
+      {
+        item: Item.Paper,
+        qty: 6,
+      }
+    ]
   }
 } as const;
 

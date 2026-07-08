@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
-import { Item, Category, POKEMON_LIST, pkmnIconUrl, dexNum, ITEM_RECIPES, PASSIVE_DROPS } from "@/app/lib/const";
+import { ALL_ITEMS, ITEM_BY_SLUG, Category, POKEMON_LIST, pkmnIconUrl, dexNum, ITEM_RECIPES, PASSIVE_DROPS } from "@/app/lib/const";
 import type { ItemConst, CategoryConst } from "@/app/lib/const";
 import JsonLd from "@/app/components/JsonLd";
 import { SITE_URL } from "@/app/lib/config";
@@ -18,12 +18,12 @@ function getItemCategories(slug: string): CategoryConst[] {
 }
 
 export function generateStaticParams() {
-  return Object.values(Item).map((item) => ({ slug: item.slug }));
+  return ALL_ITEMS.map((item) => ({ slug: item.slug }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
-  const item = Object.values(Item).find((i) => i.slug === slug) ?? null;
+  const item = ITEM_BY_SLUG[slug] ?? null;
   if (!item) return { title: "Not found" };
   const cats = getItemCategories(slug);
   const desc = cats.length > 0
@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 export default async function ItemPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const item = Object.values(Item).find((i) => i.slug === slug) ?? null;
+  const item = ITEM_BY_SLUG[slug] ?? null;
   if (!item) return <PageWrap><p>Item not found.</p></PageWrap>;
 
   const cats = getItemCategories(slug);

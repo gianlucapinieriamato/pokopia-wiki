@@ -1024,6 +1024,16 @@ export const Item = {
     label: "Dry yellow-green shoots",
     icon: "/icons/items/dryyellow-greenshoots.png",
   },
+  DynamicDittoPrint: {
+    slug: "dynamic-ditto-print",
+    label: "Dynamic Ditto print",
+    icon: "/icons/items/dynamicdittoprint.png",
+  },
+  DynamicDittoPrintWallpaper: {
+    slug: "dynamic-ditto-print-wallpaper",
+    label: "Dynamic Ditto print (wallpaper)",
+    icon: "/icons/items/dynamicdittoprint(wallpaper).png",
+  },
   EcruteakCity: {
     slug: "ecruteak-city",
     label: "Ecruteak City",
@@ -4164,6 +4174,2878 @@ export const Item = {
     label: "Wooden path",
     icon: "/icons/items/woodenpath.png",
   },
+  AbandonedPowerPlantKit: {
+    slug: "abandoned-power-plant-kit",
+    label: "Abandoned Power Plant kit",
+    icon: "/icons/items/abandonedpowerplantkit.png",
+  },
+  AbilityShield: {
+    slug: "ability-shield",
+    label: "Ability Shield",
+    icon: "/icons/items/abilityshield.png",
+  },
+  AcrylicPoster: {
+    slug: "acrylic-poster",
+    label: "Acrylic poster",
+    icon: "/icons/items/acrylicposter.png",
+  },
+  AdorableHedgeSapling: {
+    slug: "adorable-hedge-sapling",
+    label: "Adorable hedge sapling",
+    icon: "/icons/items/adorablehedgesapling.png",
+  },
+  AdorableHedgeSaplingGrow: {
+    slug: "adorable-hedge-sapling-grow",
+    label: "Adorable hedge sapling (Grow)",
+    icon: "/icons/items/adorablehedgesapling(grow).png",
+  },
+  AdorableHedgeSeeds: {
+    slug: "adorable-hedge-seeds",
+    label: "Adorable-hedge seeds",
+    icon: "/icons/items/adorable-hedgeseeds.png",
+  },
+  AgedStoneFlooring: {
+    slug: "aged-stone-flooring",
+    label: "Aged-stone flooring",
+    icon: "/icons/items/aged-stoneflooring.png",
+  },
+  AgedStoneFlooringWallpaper: {
+    slug: "aged-stone-flooring-wallpaper",
+    label: "Aged-stone flooring (wallpaper)",
+    icon: "/icons/items/aged-stoneflooring(wallpaper).png",
+  },
+  AgedStoneWallWallpaper: {
+    slug: "aged-stone-wall-wallpaper",
+    label: "Aged-stone wall (wallpaper)",
+    icon: "/icons/items/aged-stonewall(wallpaper).png",
+  },
+  AltarOfFlameKit: {
+    slug: "altar-of-flame-kit",
+    label: "Altar of Flame kit",
+    icon: "/icons/items/altarofflamekit.png",
+  },
+  ArchedBarrier: {
+    slug: "arched-barrier",
+    label: "Arched barrier",
+    icon: "/icons/items/archedbarrier.png",
+  },
+  ArchedBarrierLeafPattern: {
+    slug: "arched-barrier-leaf-pattern",
+    label: "Arched barrier (leaf pattern)",
+    icon: "/icons/items/archedbarrier(leafpattern).png",
+  },
+  ArchedTilingFragments: {
+    slug: "arched-tiling-fragments",
+    label: "Arched-tiling fragments",
+    icon: "/icons/items/arched-tilingfragments.png",
+  },
+  ArchedTilingWallpaper: {
+    slug: "arched-tiling-wallpaper",
+    label: "Arched tiling (wallpaper)",
+    icon: "/icons/items/archedtiling(wallpaper).png",
+  },
+  ArgylePrint: {
+    slug: "argyle-print",
+    label: "Argyle print",
+    icon: "/icons/items/argyleprint.png",
+  },
+  ArgylePrintWallpaper: {
+    slug: "argyle-print-wallpaper",
+    label: "Argyle print (wallpaper)",
+    icon: "/icons/items/argyleprint(wallpaper).png",
+  },
+  AspearSeeds: {
+    slug: "aspear-seeds",
+    label: "Aspear Seeds",
+    icon: "/icons/items/aspearseeds.png",
+  },
+  AspearTreeSapling: {
+    slug: "aspear-tree-sapling",
+    label: "Aspear tree sapling",
+    icon: "/icons/items/aspeartreesapling.png",
+  },
+  AspearTreeSaplingGrow: {
+    slug: "aspear-tree-sapling-grow",
+    label: "Aspear tree sapling (Grow)",
+    icon: "/icons/items/aspeartreesapling(grow).png",
+  },
+  AspearTreeStump: {
+    slug: "aspear-tree-stump",
+    label: "Aspear tree stump",
+    icon: "/icons/items/aspeartreestump.png",
+  },
+  AutomaticDoors: {
+    slug: "automatic-doors",
+    label: "Automatic doors",
+    icon: "/icons/items/automaticdoors.png",
+  },
+  AvaluggTable: {
+    slug: "avalugg-table",
+    label: "Avalugg Table",
+    icon: "/icons/items/avaluggtable.png",
+  },
+  BalloonPoster: {
+    slug: "balloon-poster",
+    label: "Balloon Poster",
+    icon: "/icons/items/balloonposter.png",
+  },
+  BarrenSeashellSoil: {
+    slug: "barren-seashell-soil",
+    label: "Barren seashell soil",
+    icon: "/icons/items/barrenseashellsoil.png",
+  },
+  BeachPokemonCenterKit: {
+    slug: "beach-pokemon-center-kit",
+    label: "Beach Pokemon Center kit",
+    icon: "/icons/items/beachpokemoncenterkit.png",
+  },
+  BeanSeeds: {
+    slug: "bean-seeds",
+    label: "Bean seeds",
+    icon: "/icons/items/beanseeds.png",
+  },
+  BeanSprout: {
+    slug: "bean-sprout",
+    label: "Bean sprout",
+    icon: "/icons/items/beansprout.png",
+  },
+  BeanSproutGrow: {
+    slug: "bean-sprout-grow",
+    label: "Bean sprout (Grow)",
+    icon: "/icons/items/beansprout(grow).png",
+  },
+  BeautifulFlowerSeeds: {
+    slug: "beautiful-flower-seeds",
+    label: "Beautiful-flower seeds",
+    icon: "/icons/items/beautiful-flowerseeds.png",
+  },
+  BitterHamburgerSteak: {
+    slug: "bitter-hamburger-steak",
+    label: "Bitter hamburger steak",
+    icon: "/icons/items/bitterhamburgersteak.png",
+  },
+  BlackBelt: {
+    slug: "black-belt",
+    label: "Black Belt",
+    icon: "/icons/items/blackbelt.png",
+  },
+  BlackGlasses: {
+    slug: "black-glasses",
+    label: "Black Glasses",
+    icon: "/icons/items/blackglasses.png",
+  },
+  BlackSludge: {
+    slug: "black-sludge",
+    label: "Black Sludge",
+    icon: "/icons/items/blacksludge.png",
+  },
+  BloomingBeanPlant: {
+    slug: "blooming-bean-plant",
+    label: "Blooming bean plant",
+    icon: "/icons/items/bloomingbeanplant.png",
+  },
+  BloomingBeanPlantGrow: {
+    slug: "blooming-bean-plant-grow",
+    label: "Blooming bean plant (Grow)",
+    icon: "/icons/items/bloomingbeanplant(grow).png",
+  },
+  BloomingPotatoPlant: {
+    slug: "blooming-potato-plant",
+    label: "Blooming potato plant",
+    icon: "/icons/items/bloomingpotatoplant.png",
+  },
+  BloomingPotatoPlantGrow: {
+    slug: "blooming-potato-plant-grow",
+    label: "Blooming potato plant (Grow)",
+    icon: "/icons/items/bloomingpotatoplant(grow).png",
+  },
+  BloomingTomatoPlant: {
+    slug: "blooming-tomato-plant",
+    label: "Blooming Tomato plant",
+    icon: "/icons/items/bloomingtomatoplant.png",
+  },
+  BloomingTomatoPlantGrow: {
+    slug: "blooming-tomato-plant-grow",
+    label: "Blooming Tomato plant (Grow)",
+    icon: "/icons/items/bloomingtomatoplant(grow).png",
+  },
+  BoatDoor: {
+    slug: "boat-door",
+    label: "Boat door",
+    icon: "/icons/items/boatdoor.png",
+  },
+  BoatRailing: {
+    slug: "boat-railing",
+    label: "Boat railing",
+    icon: "/icons/items/boatrailing.png",
+  },
+  BookPile: {
+    slug: "book-pile",
+    label: "Book pile",
+    icon: "/icons/items/bookpile.png",
+  },
+  BoulderyBadge: {
+    slug: "bouldery-badge",
+    label: "Bouldery Badge",
+    icon: "/icons/items/boulderybadge.png",
+  },
+  BrainyDoor: {
+    slug: "brainy-door",
+    label: "Brainy door",
+    icon: "/icons/items/brainydoor.png",
+  },
+  BreadBowl: {
+    slug: "bread-bowl",
+    label: "Bread bowl",
+    icon: "/icons/items/breadbowl.png",
+  },
+  BrickBorderCorner: {
+    slug: "brick-border-corner",
+    label: "Brick border (corner)",
+    icon: "/icons/items/brickborder(corner).png",
+  },
+  BrickBorderLine: {
+    slug: "brick-border-line",
+    label: "Brick border (line)",
+    icon: "/icons/items/brickborder(line).png",
+  },
+  BrickBorderSingle: {
+    slug: "brick-border-single",
+    label: "Brick border (single)",
+    icon: "/icons/items/brickborder(single).png",
+  },
+  BrickFlooring: {
+    slug: "brick-flooring",
+    label: "Brick flooring",
+    icon: "/icons/items/brickflooring.png",
+  },
+  BrickFlooringWallpaper: {
+    slug: "brick-flooring-wallpaper",
+    label: "Brick flooring (wallpaper)",
+    icon: "/icons/items/brickflooring(wallpaper).png",
+  },
+  BrickHippedRoof: {
+    slug: "brick-hipped-roof",
+    label: "Brick hipped roof",
+    icon: "/icons/items/brickhippedroof.png",
+  },
+  BrickRoofDecoration: {
+    slug: "brick-roof-decoration",
+    label: "Brick roof decoration",
+    icon: "/icons/items/brickroofdecoration.png",
+  },
+  BrickRoofValley: {
+    slug: "brick-roof-valley",
+    label: "Brick roof valley",
+    icon: "/icons/items/brickroofvalley.png",
+  },
+  BrickSteps: {
+    slug: "brick-steps",
+    label: "Brick steps",
+    icon: "/icons/items/bricksteps.png",
+  },
+  BrickWallWallpaper: {
+    slug: "brick-wall-wallpaper",
+    label: "Brick wall (wallpaper)",
+    icon: "/icons/items/brickwall(wallpaper).png",
+  },
+  BridgePlanks: {
+    slug: "bridge-planks",
+    label: "Bridge planks",
+    icon: "/icons/items/bridgeplanks.png",
+  },
+  BrokenBookcase: {
+    slug: "broken-bookcase",
+    label: "Broken bookcase",
+    icon: "/icons/items/brokenbookcase.png",
+  },
+  BrokenIronSteps: {
+    slug: "broken-iron-steps",
+    label: "Broken iron steps",
+    icon: "/icons/items/brokenironsteps.png",
+  },
+  BrokenTilingWallWallpaper: {
+    slug: "broken-tiling-wall-wallpaper",
+    label: "Broken-tiling wall (wallpaper)",
+    icon: "/icons/items/broken-tilingwall(wallpaper).png",
+  },
+  BrokenTimber: {
+    slug: "broken-timber",
+    label: "Broken timber",
+    icon: "/icons/items/brokentimber.png",
+  },
+  BrokenWindowPane: {
+    slug: "broken-window-pane",
+    label: "Broken Window Pane",
+    icon: "/icons/items/brokenwindowpane.png",
+  },
+  BronzeWall: {
+    slug: "bronze-wall",
+    label: "Bronze wall",
+    icon: "/icons/items/bronzewall.png",
+  },
+  BronzeWallWallpaper: {
+    slug: "bronze-wall-wallpaper",
+    label: "Bronze wall (wallpaper)",
+    icon: "/icons/items/bronzewall(wallpaper).png",
+  },
+  BruisedBerry: {
+    slug: "bruised-berry",
+    label: "Bruised berry",
+    icon: "/icons/items/bruisedberry.png",
+  },
+  BubblePrint: {
+    slug: "bubble-print",
+    label: "Bubble print",
+    icon: "/icons/items/bubbleprint.png",
+  },
+  BubblePrintWallpaper: {
+    slug: "bubble-print-wallpaper",
+    label: "Bubble print (wallpaper)",
+    icon: "/icons/items/bubbleprint(wallpaper).png",
+  },
+  CampingCookingPot: {
+    slug: "camping-cooking-pot",
+    label: "Camping cooking pot",
+    icon: "/icons/items/campingcookingpot.png",
+  },
+  CarrotBread: {
+    slug: "carrot-bread",
+    label: "Carrot bread",
+    icon: "/icons/items/carrotbread.png",
+  },
+  CarvedCoarseRock: {
+    slug: "carved-coarse-rock",
+    label: "Carved coarse rock",
+    icon: "/icons/items/carvedcoarserock.png",
+  },
+  CarvedLightBrownRock: {
+    slug: "carved-light-brown-rock",
+    label: "Carved light-brown rock",
+    icon: "/icons/items/carvedlight-brownrock.png",
+  },
+  CarvedWhiteRock: {
+    slug: "carved-white-rock",
+    label: "Carved white rock",
+    icon: "/icons/items/carvedwhiterock.png",
+  },
+  CascadeLikeBadge: {
+    slug: "cascade-like-badge",
+    label: "Cascade-like Badge",
+    icon: "/icons/items/cascade-likebadge.png",
+  },
+  CaveMushroomsOutdoor: {
+    slug: "cave-mushrooms-outdoor",
+    label: "Cave mushrooms (outdoor)",
+    icon: "/icons/items/cavemushrooms(outdoor).png",
+  },
+  ChargingStationKit: {
+    slug: "charging-station-kit",
+    label: "Charging station kit",
+    icon: "/icons/items/chargingstationkit.png",
+  },
+  CharizardRug: {
+    slug: "charizard-rug",
+    label: "Charizard rug",
+    icon: "/icons/items/charizardrug.png",
+  },
+  ChestoSeeds: {
+    slug: "chesto-seeds",
+    label: "Chesto Seeds",
+    icon: "/icons/items/chestoseeds.png",
+  },
+  ChestoTreeSapling: {
+    slug: "chesto-tree-sapling",
+    label: "Chesto tree sapling",
+    icon: "/icons/items/chestotreesapling.png",
+  },
+  ChestoTreeSaplingGrow: {
+    slug: "chesto-tree-sapling-grow",
+    label: "Chesto tree sapling (Grow)",
+    icon: "/icons/items/chestotreesapling(grow).png",
+  },
+  ChestoTreeStump: {
+    slug: "chesto-tree-stump",
+    label: "Chesto tree stump",
+    icon: "/icons/items/chestotreestump.png",
+  },
+  ChiliSauce: {
+    slug: "chili-sauce",
+    label: "Chili sauce",
+    icon: "/icons/items/chilisauce.png",
+  },
+  CityCottageKit: {
+    slug: "city-cottage-kit",
+    label: "City cottage kit",
+    icon: "/icons/items/citycottagekit.png",
+  },
+  CityDenKit: {
+    slug: "city-den-kit",
+    label: "City den kit",
+    icon: "/icons/items/citydenkit.png",
+  },
+  CityHouseKit: {
+    slug: "city-house-kit",
+    label: "City house kit",
+    icon: "/icons/items/cityhousekit.png",
+  },
+  CityHutKit: {
+    slug: "city-hut-kit",
+    label: "City hut kit",
+    icon: "/icons/items/cityhutkit.png",
+  },
+  ClothWallWallpaper: {
+    slug: "cloth-wall-wallpaper",
+    label: "Cloth wall (wallpaper)",
+    icon: "/icons/items/clothwall(wallpaper).png",
+  },
+  CloudCannon: {
+    slug: "cloud-cannon",
+    label: "Cloud cannon",
+    icon: "/icons/items/cloudcannon.png",
+  },
+  CloudTable: {
+    slug: "cloud-table",
+    label: "Cloud table",
+    icon: "/icons/items/cloudtable.png",
+  },
+  CobblestoneWallWallpaper: {
+    slug: "cobblestone-wall-wallpaper",
+    label: "Cobblestone wall (wallpaper)",
+    icon: "/icons/items/cobblestonewall(wallpaper).png",
+  },
+  CommonCandy: {
+    slug: "common-candy",
+    label: "Common candy",
+    icon: "/icons/items/commoncandy.png",
+  },
+  CommunityBox: {
+    slug: "community-box",
+    label: "Community Box",
+    icon: "/icons/items/communitybox.png",
+  },
+  ConcertStageKit: {
+    slug: "concert-stage-kit",
+    label: "Concert stage kit",
+    icon: "/icons/items/concertstagekit.png",
+  },
+  ConcreteBorderCorner: {
+    slug: "concrete-border-corner",
+    label: "Concrete border (corner)",
+    icon: "/icons/items/concreteborder(corner).png",
+  },
+  ConcreteBorderLine: {
+    slug: "concrete-border-line",
+    label: "Concrete border (line)",
+    icon: "/icons/items/concreteborder(line).png",
+  },
+  ConcreteBorderSingle: {
+    slug: "concrete-border-single",
+    label: "Concrete border (single)",
+    icon: "/icons/items/concreteborder(single).png",
+  },
+  ConcreteMixer: {
+    slug: "concrete-mixer",
+    label: "Concrete mixer",
+    icon: "/icons/items/concretemixer.png",
+  },
+  ConcreteSlab: {
+    slug: "concrete-slab",
+    label: "Concrete slab",
+    icon: "/icons/items/concreteslab.png",
+  },
+  ConcreteSteps: {
+    slug: "concrete-steps",
+    label: "Concrete steps",
+    icon: "/icons/items/concretesteps.png",
+  },
+  ConcreteWallWallpaper: {
+    slug: "concrete-wall-wallpaper",
+    label: "Concrete wall (wallpaper)",
+    icon: "/icons/items/concretewall(wallpaper).png",
+  },
+  ConfectioneryWallLower: {
+    slug: "confectionery-wall-lower",
+    label: "Confectionery wall (lower)",
+    icon: "/icons/items/confectionerywall(lower).png",
+  },
+  ConfectioneryWallMiddle: {
+    slug: "confectionery-wall-middle",
+    label: "Confectionery wall (middle)",
+    icon: "/icons/items/confectionerywall(middle).png",
+  },
+  ConfectioneryWallUpper: {
+    slug: "confectionery-wall-upper",
+    label: "Confectionery wall (upper)",
+    icon: "/icons/items/confectionerywall(upper).png",
+  },
+  CookingPot: {
+    slug: "cooking-pot",
+    label: "Cooking pot",
+    icon: "/icons/items/cookingpot.png",
+  },
+  CottonSporesOutdoor: {
+    slug: "cotton-spores-outdoor",
+    label: "Cotton spores (outdoor)",
+    icon: "/icons/items/cottonspores(outdoor).png",
+  },
+  CrisscrossWoodenFlooringWallpaper: {
+    slug: "crisscross-wooden-flooring-wallpaper",
+    label: "Crisscross wooden flooring (wallpaper)",
+    icon: "/icons/items/crisscrosswoodenflooring(wallpaper).png",
+  },
+  CroutonSalad: {
+    slug: "crouton-salad",
+    label: "Crouton salad",
+    icon: "/icons/items/croutonsalad.png",
+  },
+  CrushedBerrySalad: {
+    slug: "crushed-berry-salad",
+    label: "Crushed-berry salad",
+    icon: "/icons/items/crushed-berrysalad.png",
+  },
+  CrystalWallWallpaper: {
+    slug: "crystal-wall-wallpaper",
+    label: "Crystal wall (wallpaper)",
+    icon: "/icons/items/crystalwall(wallpaper).png",
+  },
+  CubeLightWallpaper: {
+    slug: "cube-light-wallpaper",
+    label: "Cube light (wallpaper)",
+    icon: "/icons/items/cubelight(wallpaper).png",
+  },
+  CurryAndRice: {
+    slug: "curry-and-rice",
+    label: "Curry and rice",
+    icon: "/icons/items/curryandrice.png",
+  },
+  CurryPrint: {
+    slug: "curry-print",
+    label: "Curry print",
+    icon: "/icons/items/curryprint.png",
+  },
+  CurryPrintWallpaper: {
+    slug: "curry-print-wallpaper",
+    label: "Curry print (wallpaper)",
+    icon: "/icons/items/curryprint(wallpaper).png",
+  },
+  CurvedEave: {
+    slug: "curved-eave",
+    label: "Curved eave",
+    icon: "/icons/items/curvedeave.png",
+  },
+  CuteFlowerSeeds: {
+    slug: "cute-flower-seeds",
+    label: "Cute-flower seeds",
+    icon: "/icons/items/cute-flowerseeds.png",
+  },
+  CyberFlooringWallpaper: {
+    slug: "cyber-flooring-wallpaper",
+    label: "Cyber flooring (wallpaper)",
+    icon: "/icons/items/cyberflooring(wallpaper).png",
+  },
+  DamagedArchedTiling: {
+    slug: "damaged-arched-tiling",
+    label: "Damaged arched tiling",
+    icon: "/icons/items/damagedarchedtiling.png",
+  },
+  DampHedgeSapling: {
+    slug: "damp-hedge-sapling",
+    label: "Damp hedge sapling",
+    icon: "/icons/items/damphedgesapling.png",
+  },
+  DampHedgeSaplingGrow: {
+    slug: "damp-hedge-sapling-grow",
+    label: "Damp hedge sapling (Grow)",
+    icon: "/icons/items/damphedgesapling(grow).png",
+  },
+  DampHedgeSeeds: {
+    slug: "damp-hedge-seeds",
+    label: "Damp-hedge seeds",
+    icon: "/icons/items/damp-hedgeseeds.png",
+  },
+  DampRock: {
+    slug: "damp-rock",
+    label: "Damp Rock",
+    icon: "/icons/items/damprock.png",
+  },
+  DancePoster: {
+    slug: "dance-poster",
+    label: "Dance poster",
+    icon: "/icons/items/danceposter.png",
+  },
+  DandyFlowerSeeds: {
+    slug: "dandy-flower-seeds",
+    label: "Dandy flower seeds",
+    icon: "/icons/items/dandyflowerseeds.png",
+  },
+  DarkMarbleFlooringWallpaper: {
+    slug: "dark-marble-flooring-wallpaper",
+    label: "Dark marble flooring (wallpaper)",
+    icon: "/icons/items/darkmarbleflooring(wallpaper).png",
+  },
+  DemolitionKit: {
+    slug: "demolition-kit",
+    label: "Demolition kit",
+    icon: "/icons/items/demolitionkit.png",
+  },
+  DenseVines: {
+    slug: "dense-vines",
+    label: "Dense vines",
+    icon: "/icons/items/densevines.png",
+  },
+  DestinyKnot: {
+    slug: "destiny-knot",
+    label: "Destiny Knot",
+    icon: "/icons/items/destinyknot.png",
+  },
+  DiagonalWoodenFlooringWallpaper: {
+    slug: "diagonal-wooden-flooring-wallpaper",
+    label: "Diagonal wooden flooring (wallpaper)",
+    icon: "/icons/items/diagonalwoodenflooring(wallpaper).png",
+  },
+  Diploma: {
+    slug: "diploma",
+    label: "Diploma",
+    icon: "/icons/items/diploma.png",
+  },
+  DittoRug: {
+    slug: "ditto-rug",
+    label: "Ditto rug",
+    icon: "/icons/items/dittorug.png",
+  },
+  DormeredBrickRoof: {
+    slug: "dormered-brick-roof",
+    label: "Dormered brick roof",
+    icon: "/icons/items/dormeredbrickroof.png",
+  },
+  DragonFang: {
+    slug: "dragon-fang",
+    label: "Dragon Fang",
+    icon: "/icons/items/dragonfang.png",
+  },
+  DrinkPoster: {
+    slug: "drink-poster",
+    label: "Drink poster",
+    icon: "/icons/items/drinkposter.png",
+  },
+  DryAdorableHedge: {
+    slug: "dry-adorable-hedge",
+    label: "Dry adorable hedge",
+    icon: "/icons/items/dryadorablehedge.png",
+  },
+  DryAlpineGrass: {
+    slug: "dry-alpine-grass",
+    label: "Dry alpine grass",
+    icon: "/icons/items/dryalpinegrass.png",
+  },
+  DryAspearTree: {
+    slug: "dry-aspear-tree",
+    label: "Dry Aspear tree",
+    icon: "/icons/items/dryaspeartree.png",
+  },
+  DryBeanPlant: {
+    slug: "dry-bean-plant",
+    label: "Dry bean plant",
+    icon: "/icons/items/drybeanplant.png",
+  },
+  DryChestoTree: {
+    slug: "dry-chesto-tree",
+    label: "Dry Chesto tree",
+    icon: "/icons/items/drychestotree.png",
+  },
+  DryDampHedge: {
+    slug: "dry-damp-hedge",
+    label: "Dry damp hedge",
+    icon: "/icons/items/drydamphedge.png",
+  },
+  DryHealthyHedge: {
+    slug: "dry-healthy-hedge",
+    label: "Dry healthy hedge",
+    icon: "/icons/items/dryhealthyhedge.png",
+  },
+  DryLumTree: {
+    slug: "dry-lum-tree",
+    label: "Dry Lum tree",
+    icon: "/icons/items/drylumtree.png",
+  },
+  DryPechaTree: {
+    slug: "dry-pecha-tree",
+    label: "Dry Pecha tree",
+    icon: "/icons/items/drypechatree.png",
+  },
+  DryPinkTallGrass: {
+    slug: "dry-pink-tall-grass",
+    label: "Dry pink tall grass",
+    icon: "/icons/items/drypinktallgrass.png",
+  },
+  DryPointyTree: {
+    slug: "dry-pointy-tree",
+    label: "Dry pointy tree",
+    icon: "/icons/items/drypointytree.png",
+  },
+  DryPotatoPlant: {
+    slug: "dry-potato-plant",
+    label: "Dry potato plant",
+    icon: "/icons/items/drypotatoplant.png",
+  },
+  DryRawstTree: {
+    slug: "dry-rawst-tree",
+    label: "Dry Rawst tree",
+    icon: "/icons/items/dryrawsttree.png",
+  },
+  DryRedTallGrass: {
+    slug: "dry-red-tall-grass",
+    label: "Dry red tall grass",
+    icon: "/icons/items/dryredtallgrass.png",
+  },
+  DrySeashoreGrass: {
+    slug: "dry-seashore-grass",
+    label: "Dry seashore grass",
+    icon: "/icons/items/dryseashoregrass.png",
+  },
+  DrySkyHighGrass: {
+    slug: "dry-sky-high-grass",
+    label: "Dry sky-high grass",
+    icon: "/icons/items/drysky-highgrass.png",
+  },
+  DryStylishHedge: {
+    slug: "dry-stylish-hedge",
+    label: "Dry stylish hedge",
+    icon: "/icons/items/drystylishhedge.png",
+  },
+  DryTomatoPlant: {
+    slug: "dry-tomato-plant",
+    label: "Dry tomato plant",
+    icon: "/icons/items/drytomatoplant.png",
+  },
+  DryWheat: {
+    slug: "dry-wheat",
+    label: "Dry wheat",
+    icon: "/icons/items/drywheat.png",
+  },
+  DryYellowTallGrass: {
+    slug: "dry-yellow-tall-grass",
+    label: "Dry yellow tall grass",
+    icon: "/icons/items/dryyellowtallgrass.png",
+  },
+  EarthBadge: {
+    slug: "earth-badge",
+    label: "Earth Badge",
+    icon: "/icons/items/earthbadge.png",
+  },
+  ElectrifyingSoup: {
+    slug: "electrifying-soup",
+    label: "Electrifying soup",
+    icon: "/icons/items/electrifyingsoup.png",
+  },
+  ElegantFlowerSeeds: {
+    slug: "elegant-flower-seeds",
+    label: "Elegant-flower seeds",
+    icon: "/icons/items/elegant-flowerseeds.png",
+  },
+  ElevatorPlatform: {
+    slug: "elevator-platform",
+    label: "Elevator platform",
+    icon: "/icons/items/elevatorplatform.png",
+  },
+  ExhibitionStand: {
+    slug: "exhibition-stand",
+    label: "Exhibition stand",
+    icon: "/icons/items/exhibitionstand.png",
+  },
+  FarmSoilBeach: {
+    slug: "farm-soil-beach",
+    label: "Farm soil (Beach)",
+    icon: "/icons/items/farmsoil(beach).png",
+  },
+  FarmSoilRidge: {
+    slug: "farm-soil-ridge",
+    label: "Farm soil (Ridge)",
+    icon: "/icons/items/farmsoil(ridge).png",
+  },
+  FarmSoilSkyland: {
+    slug: "farm-soil-skyland",
+    label: "Farm soil (Skyland)",
+    icon: "/icons/items/farmsoil(skyland).png",
+  },
+  FarmSoilWastelands: {
+    slug: "farm-soil-wastelands",
+    label: "Farm soil (Wastelands)",
+    icon: "/icons/items/farmsoil(wastelands).png",
+  },
+  FeltMat: {
+    slug: "felt-mat",
+    label: "Felt mat",
+    icon: "/icons/items/feltmat.png",
+  },
+  FeltMatWallpaper: {
+    slug: "felt-mat-wallpaper",
+    label: "Felt mat (wallpaper)",
+    icon: "/icons/items/feltmat(wallpaper).png",
+  },
+  FishScaleTilingWallpaper: {
+    slug: "fish-scale-tiling-wallpaper",
+    label: "Fish-scale tiling (wallpaper)",
+    icon: "/icons/items/fish-scaletiling(wallpaper).png",
+  },
+  FlatBrickRoof: {
+    slug: "flat-brick-roof",
+    label: "Flat brick roof",
+    icon: "/icons/items/flatbrickroof.png",
+  },
+  FlatStoneRoof: {
+    slug: "flat-stone-roof",
+    label: "Flat stone roof",
+    icon: "/icons/items/flatstoneroof.png",
+  },
+  FlatTentRoof: {
+    slug: "flat-tent-roof",
+    label: "Flat tent roof",
+    icon: "/icons/items/flattentroof.png",
+  },
+  FlatTiledRoof: {
+    slug: "flat-tiled-roof",
+    label: "Flat tiled roof",
+    icon: "/icons/items/flattiledroof.png",
+  },
+  FlavorfulSoup: {
+    slug: "flavorful-soup",
+    label: "Flavorful soup",
+    icon: "/icons/items/flavorfulsoup.png",
+  },
+  FlowerPrint: {
+    slug: "flower-print",
+    label: "Flower print",
+    icon: "/icons/items/flowerprint.png",
+  },
+  FlowerPrintWallpaper: {
+    slug: "flower-print-wallpaper",
+    label: "Flower print (wallpaper)",
+    icon: "/icons/items/flowerprint(wallpaper).png",
+  },
+  FlowerTable: {
+    slug: "flower-table",
+    label: "Flower table",
+    icon: "/icons/items/flowertable.png",
+  },
+  FloweringDuckweed: {
+    slug: "flowering-duckweed",
+    label: "Flowering Duckweed",
+    icon: "/icons/items/floweringduckweed.png",
+  },
+  FluffyBread: {
+    slug: "fluffy-bread",
+    label: "Fluffy bread",
+    icon: "/icons/items/fluffybread.png",
+  },
+  FluffyFlooring: {
+    slug: "fluffy-flooring",
+    label: "Fluffy flooring",
+    icon: "/icons/items/fluffyflooring.png",
+  },
+  FluffyFlooringWallpaper: {
+    slug: "fluffy-flooring-wallpaper",
+    label: "Fluffy flooring (wallpaper)",
+    icon: "/icons/items/fluffyflooring(wallpaper).png",
+  },
+  FoodPoster: {
+    slug: "food-poster",
+    label: "Food poster",
+    icon: "/icons/items/foodposter.png",
+  },
+  FountainPlazaKit: {
+    slug: "fountain-plaza-kit",
+    label: "Fountain plaza kit",
+    icon: "/icons/items/fountainplazakit.png",
+  },
+  FreezingChambersKit: {
+    slug: "freezing-chambers-kit",
+    label: "Freezing Chambers kit",
+    icon: "/icons/items/freezingchamberskit.png",
+  },
+  FreshWater: {
+    slug: "fresh-water",
+    label: "Fresh Water",
+    icon: "/icons/items/freshwater.png",
+  },
+  FurnaceKit: {
+    slug: "furnace-kit",
+    label: "Furnace kit",
+    icon: "/icons/items/furnacekit.png",
+  },
+  GinghamPrint: {
+    slug: "gingham-print",
+    label: "Gingham print",
+    icon: "/icons/items/ginghamprint.png",
+  },
+  GinghamPrintWallpaper: {
+    slug: "gingham-print-wallpaper",
+    label: "Gingham print (wallpaper)",
+    icon: "/icons/items/ginghamprint(wallpaper).png",
+  },
+  GlossyAwning: {
+    slug: "glossy-awning",
+    label: "Glossy awning",
+    icon: "/icons/items/glossyawning.png",
+  },
+  GlowingMushroomsOutdoor: {
+    slug: "glowing-mushrooms-outdoor",
+    label: "Glowing mushrooms (outdoor)",
+    icon: "/icons/items/glowingmushrooms(outdoor).png",
+  },
+  GoldWallWallpaper: {
+    slug: "gold-wall-wallpaper",
+    label: "Gold wall (wallpaper)",
+    icon: "/icons/items/goldwall(wallpaper).png",
+  },
+  GoldenPoster: {
+    slug: "golden-poster",
+    label: "Golden poster",
+    icon: "/icons/items/goldenposter.png",
+  },
+  GrassFlooringWallpaper: {
+    slug: "grass-flooring-wallpaper",
+    label: "Grass flooring (wallpaper)",
+    icon: "/icons/items/grassflooring(wallpaper).png",
+  },
+  GrateFencing: {
+    slug: "grate-fencing",
+    label: "Grate fencing",
+    icon: "/icons/items/gratefencing.png",
+  },
+  GrateFlooring: {
+    slug: "grate-flooring",
+    label: "Grate flooring",
+    icon: "/icons/items/grateflooring.png",
+  },
+  GrayCottageKit: {
+    slug: "gray-cottage-kit",
+    label: "Gray cottage kit",
+    icon: "/icons/items/graycottagekit.png",
+  },
+  GrayHutKit: {
+    slug: "gray-hut-kit",
+    label: "Gray hut kit",
+    icon: "/icons/items/grayhutkit.png",
+  },
+  GrowthPoster: {
+    slug: "growth-poster",
+    label: "Growth poster",
+    icon: "/icons/items/growthposter.png",
+  },
+  Handrail: {
+    slug: "handrail",
+    label: "Handrail",
+    icon: "/icons/items/handrail.png",
+  },
+  HarborPole: {
+    slug: "harbor-pole",
+    label: "Harbor pole",
+    icon: "/icons/items/harborpole.png",
+  },
+  HardStone: {
+    slug: "hard-stone",
+    label: "Hard Stone",
+    icon: "/icons/items/hardstone.png",
+  },
+  HardwoodFlooringWallpaper: {
+    slug: "hardwood-flooring-wallpaper",
+    label: "Hardwood flooring (wallpaper)",
+    icon: "/icons/items/hardwoodflooring(wallpaper).png",
+  },
+  HatchWindow: {
+    slug: "hatch-window",
+    label: "Hatch window",
+    icon: "/icons/items/hatchwindow.png",
+  },
+  HayPileWallpaper: {
+    slug: "hay-pile-wallpaper",
+    label: "Hay pile (wallpaper)",
+    icon: "/icons/items/haypile(wallpaper).png",
+  },
+  HealthyHedgeSapling: {
+    slug: "healthy-hedge-sapling",
+    label: "Healthy hedge sapling",
+    icon: "/icons/items/healthyhedgesapling.png",
+  },
+  HealthyHedgeSaplingGrow: {
+    slug: "healthy-hedge-sapling-grow",
+    label: "Healthy hedge sapling (Grow)",
+    icon: "/icons/items/healthyhedgesapling(grow).png",
+  },
+  HealthyHedgeSeeds: {
+    slug: "healthy-hedge-seeds",
+    label: "Healthy-hedge seeds",
+    icon: "/icons/items/healthy-hedgeseeds.png",
+  },
+  HealthySoup: {
+    slug: "healthy-soup",
+    label: "Healthy soup",
+    icon: "/icons/items/healthysoup.png",
+  },
+  HeatRock: {
+    slug: "heat-rock",
+    label: "Heat Rock",
+    icon: "/icons/items/heatrock.png",
+  },
+  HexagonalFlooringWallpaper: {
+    slug: "hexagonal-flooring-wallpaper",
+    label: "Hexagonal flooring (wallpaper)",
+    icon: "/icons/items/hexagonalflooring(wallpaper).png",
+  },
+  HorizontalStripePrint: {
+    slug: "horizontal-stripe-print",
+    label: "Horizontal-stripe print",
+    icon: "/icons/items/horizontal-stripeprint.png",
+  },
+  HorizontalStripePrintWallpaper: {
+    slug: "horizontal-stripe-print-wallpaper",
+    label: "Horizontal-stripe print (wallpaper)",
+    icon: "/icons/items/horizontal-stripeprint(wallpaper).png",
+  },
+  HoundstoothPrint: {
+    slug: "houndstooth-print",
+    label: "Houndstooth print",
+    icon: "/icons/items/houndstoothprint.png",
+  },
+  HoundstoothPrintWallpaper: {
+    slug: "houndstooth-print-wallpaper",
+    label: "Houndstooth print (wallpaper)",
+    icon: "/icons/items/houndstoothprint(wallpaper).png",
+  },
+  HousePartition: {
+    slug: "house-partition",
+    label: "House partition",
+    icon: "/icons/items/housepartition.png",
+  },
+  IceCreamPoster: {
+    slug: "ice-cream-poster",
+    label: "Ice cream poster",
+    icon: "/icons/items/icecreamposter.png",
+  },
+  Icicle: {
+    slug: "icicle",
+    label: "Icicle",
+    icon: "/icons/items/icicle.png",
+  },
+  IcyRock: {
+    slug: "icy-rock",
+    label: "Icy Rock",
+    icon: "/icons/items/icyrock.png",
+  },
+  IronEnclosure: {
+    slug: "iron-enclosure",
+    label: "Iron enclosure",
+    icon: "/icons/items/ironenclosure.png",
+  },
+  IronPillar: {
+    slug: "iron-pillar",
+    label: "Iron pillar",
+    icon: "/icons/items/ironpillar.png",
+  },
+  IronPipeDownwardCurve: {
+    slug: "iron-pipe-downward-curve",
+    label: "Iron pipe (downward curve)",
+    icon: "/icons/items/ironpipe(downwardcurve).png",
+  },
+  IronPipeDownwardT: {
+    slug: "iron-pipe-downward-t",
+    label: "Iron pipe (downward T)",
+    icon: "/icons/items/ironpipe(downwardt).png",
+  },
+  IronPipeHorizontal: {
+    slug: "iron-pipe-horizontal",
+    label: "Iron pipe (horizontal)",
+    icon: "/icons/items/ironpipe(horizontal).png",
+  },
+  IronPipeHorizontalCross: {
+    slug: "iron-pipe-horizontal-cross",
+    label: "Iron pipe (horizontal cross)",
+    icon: "/icons/items/ironpipe(horizontalcross).png",
+  },
+  IronPipeHorizontalCurve: {
+    slug: "iron-pipe-horizontal-curve",
+    label: "Iron pipe (horizontal curve)",
+    icon: "/icons/items/ironpipe(horizontalcurve).png",
+  },
+  IronPipeHorizontalT: {
+    slug: "iron-pipe-horizontal-t",
+    label: "Iron pipe (horizontal T)",
+    icon: "/icons/items/ironpipe(horizontalt).png",
+  },
+  IronPipeUpwardCurve: {
+    slug: "iron-pipe-upward-curve",
+    label: "Iron pipe (upward curve)",
+    icon: "/icons/items/ironpipe(upwardcurve).png",
+  },
+  IronPipeUpwardT: {
+    slug: "iron-pipe-upward-t",
+    label: "Iron pipe (upward T)",
+    icon: "/icons/items/ironpipe(upwardt).png",
+  },
+  IronPipeVertical: {
+    slug: "iron-pipe-vertical",
+    label: "Iron pipe (vertical)",
+    icon: "/icons/items/ironpipe(vertical).png",
+  },
+  IronPipeVerticalCross: {
+    slug: "iron-pipe-vertical-cross",
+    label: "Iron pipe (vertical cross)",
+    icon: "/icons/items/ironpipe(verticalcross).png",
+  },
+  IronPipeVerticalT: {
+    slug: "iron-pipe-vertical-t",
+    label: "Iron pipe (vertical T)",
+    icon: "/icons/items/ironpipe(verticalt).png",
+  },
+  IronPlatingWallpaper: {
+    slug: "iron-plating-wallpaper",
+    label: "Iron plating (wallpaper)",
+    icon: "/icons/items/ironplating(wallpaper).png",
+  },
+  IronTilingWallpaper: {
+    slug: "iron-tiling-wallpaper",
+    label: "Iron tiling (wallpaper)",
+    icon: "/icons/items/irontiling(wallpaper).png",
+  },
+  IronWallWallpaper: {
+    slug: "iron-wall-wallpaper",
+    label: "Iron wall (wallpaper)",
+    icon: "/icons/items/ironwall(wallpaper).png",
+  },
+  JirachiLamp: {
+    slug: "jirachi-lamp",
+    label: "Jirachi lamp",
+    icon: "/icons/items/jirachilamp.png",
+  },
+  JumpRopeTrophy: {
+    slug: "jump-rope-trophy",
+    label: "Jump rope trophy",
+    icon: "/icons/items/jumpropetrophy.png",
+  },
+  LaceRug: {
+    slug: "lace-rug",
+    label: "Lace rug",
+    icon: "/icons/items/lacerug.png",
+  },
+  LargeNarrowRug: {
+    slug: "large-narrow-rug",
+    label: "Large narrow rug",
+    icon: "/icons/items/largenarrowrug.png",
+  },
+  LargeRoundRug: {
+    slug: "large-round-rug",
+    label: "Large round rug",
+    icon: "/icons/items/largeroundrug.png",
+  },
+  LargeSquareRug: {
+    slug: "large-square-rug",
+    label: "Large square rug",
+    icon: "/icons/items/largesquarerug.png",
+  },
+  LargeWoodenDoor: {
+    slug: "large-wooden-door",
+    label: "Large wooden door",
+    icon: "/icons/items/largewoodendoor.png",
+  },
+  LeafCottageKit: {
+    slug: "leaf-cottage-kit",
+    label: "Leaf cottage kit",
+    icon: "/icons/items/leafcottagekit.png",
+  },
+  LeafDenKit: {
+    slug: "leaf-den-kit",
+    label: "Leaf den kit",
+    icon: "/icons/items/leafdenkit.png",
+  },
+  LeafHouseKit: {
+    slug: "leaf-house-kit",
+    label: "Leaf house kit",
+    icon: "/icons/items/leafhousekit.png",
+  },
+  LeafHutKit: {
+    slug: "leaf-hut-kit",
+    label: "Leaf hut kit",
+    icon: "/icons/items/leafhutkit.png",
+  },
+  LeafPrint: {
+    slug: "leaf-print",
+    label: "Leaf print",
+    icon: "/icons/items/leafprint.png",
+  },
+  LeafPrintWallpaper: {
+    slug: "leaf-print-wallpaper",
+    label: "Leaf print (wallpaper)",
+    icon: "/icons/items/leafprint(wallpaper).png",
+  },
+  LeppaBread: {
+    slug: "leppa-bread",
+    label: "Leppa bread",
+    icon: "/icons/items/leppabread.png",
+  },
+  LeppaSalad: {
+    slug: "leppa-salad",
+    label: "Leppa salad",
+    icon: "/icons/items/leppasalad.png",
+  },
+  LeppaSeeds: {
+    slug: "leppa-seeds",
+    label: "Leppa Seeds",
+    icon: "/icons/items/leppaseeds.png",
+  },
+  LeppaTreeSapling: {
+    slug: "leppa-tree-sapling",
+    label: "Leppa tree sapling",
+    icon: "/icons/items/leppatreesapling.png",
+  },
+  LeppaTreeSaplingGrow: {
+    slug: "leppa-tree-sapling-grow",
+    label: "Leppa tree sapling (Grow)",
+    icon: "/icons/items/leppatreesapling(grow).png",
+  },
+  LeppaTreeStump: {
+    slug: "leppa-tree-stump",
+    label: "Leppa tree stump",
+    icon: "/icons/items/leppatreestump.png",
+  },
+  LeveeWallpaper: {
+    slug: "levee-wallpaper",
+    label: "Levee (wallpaper)",
+    icon: "/icons/items/levee(wallpaper).png",
+  },
+  LiftPlatform: {
+    slug: "lift-platform",
+    label: "Lift platform",
+    icon: "/icons/items/liftplatform.png",
+  },
+  LightAntiqueWallLower: {
+    slug: "light-antique-wall-lower",
+    label: "Light antique wall (lower)",
+    icon: "/icons/items/lightantiquewall(lower).png",
+  },
+  LightAntiqueWallMiddle: {
+    slug: "light-antique-wall-middle",
+    label: "Light antique wall (middle)",
+    icon: "/icons/items/lightantiquewall(middle).png",
+  },
+  LightMarbleFlooringWallpaper: {
+    slug: "light-marble-flooring-wallpaper",
+    label: "Light marble flooring (wallpaper)",
+    icon: "/icons/items/lightmarbleflooring(wallpaper).png",
+  },
+  LightWoodenWallWallpaper: {
+    slug: "light-wooden-wall-wallpaper",
+    label: "Light wooden wall (wallpaper)",
+    icon: "/icons/items/lightwoodenwall(wallpaper).png",
+  },
+  LinedStoneFlooringWallpaper: {
+    slug: "lined-stone-flooring-wallpaper",
+    label: "Lined-stone flooring (wallpaper)",
+    icon: "/icons/items/lined-stoneflooring(wallpaper).png",
+  },
+  LoadedDice: {
+    slug: "loaded-dice",
+    label: "Loaded Dice",
+    icon: "/icons/items/loadeddice.png",
+  },
+  LogCabinKit: {
+    slug: "log-cabin-kit",
+    label: "Log cabin kit",
+    icon: "/icons/items/logcabinkit.png",
+  },
+  LumSeeds: {
+    slug: "lum-seeds",
+    label: "Lum seeds",
+    icon: "/icons/items/lumseeds.png",
+  },
+  LumTreeSapling: {
+    slug: "lum-tree-sapling",
+    label: "Lum tree sapling",
+    icon: "/icons/items/lumtreesapling.png",
+  },
+  LumTreeSaplingGrow: {
+    slug: "lum-tree-sapling-grow",
+    label: "Lum tree sapling (Grow)",
+    icon: "/icons/items/lumtreesapling(grow).png",
+  },
+  LumTreeStump: {
+    slug: "lum-tree-stump",
+    label: "Lum tree stump",
+    icon: "/icons/items/lumtreestump.png",
+  },
+  MagikarpDecoration: {
+    slug: "magikarp-decoration",
+    label: "Magikarp decoration",
+    icon: "/icons/items/magikarpdecoration.png",
+  },
+  MarbleWallpaper: {
+    slug: "marble-wallpaper",
+    label: "Marble (wallpaper)",
+    icon: "/icons/items/marble(wallpaper).png",
+  },
+  MarkedRoadVertical: {
+    slug: "marked-road-vertical",
+    label: "Marked road (vertical)",
+    icon: "/icons/items/markedroad(vertical).png",
+  },
+  MarshyBadge: {
+    slug: "marshy-badge",
+    label: "Marshy Badge",
+    icon: "/icons/items/marshybadge.png",
+  },
+  MeadowPoster: {
+    slug: "meadow-poster",
+    label: "Meadow poster",
+    icon: "/icons/items/meadowposter.png",
+  },
+  MetalCoat: {
+    slug: "metal-coat",
+    label: "Metal Coat",
+    icon: "/icons/items/metalcoat.png",
+  },
+  MetalFencing: {
+    slug: "metal-fencing",
+    label: "Metal fencing",
+    icon: "/icons/items/metalfencing.png",
+  },
+  MiniFloodgate: {
+    slug: "mini-floodgate",
+    label: "Mini floodgate",
+    icon: "/icons/items/minifloodgate.png",
+  },
+  ModernCarpetingWallpaper: {
+    slug: "modern-carpeting-wallpaper",
+    label: "Modern carpeting (wallpaper)",
+    icon: "/icons/items/moderncarpeting(wallpaper).png",
+  },
+  ModernWall: {
+    slug: "modern-wall",
+    label: "Modern wall",
+    icon: "/icons/items/modernwall.png",
+  },
+  ModernWallWallpaper: {
+    slug: "modern-wall-wallpaper",
+    label: "Modern wall (wallpaper)",
+    icon: "/icons/items/modernwall(wallpaper).png",
+  },
+  MoomooMilkCoffee: {
+    slug: "moomoo-milk-coffee",
+    label: "Moomoo Milk Coffee",
+    icon: "/icons/items/moomoomilkcoffee.png",
+  },
+  MoonClock: {
+    slug: "moon-clock",
+    label: "Moon clock",
+    icon: "/icons/items/moonclock.png",
+  },
+  MoonlightDanceStatueKit: {
+    slug: "moonlight-dance-statue-kit",
+    label: "Moonlight dance statue kit",
+    icon: "/icons/items/moonlightdancestatuekit.png",
+  },
+  MoonlightPoster: {
+    slug: "moonlight-poster",
+    label: "Moonlight Poster",
+    icon: "/icons/items/moonlightposter.png",
+  },
+  MosaicTilingWallpaper: {
+    slug: "mosaic-tiling-wallpaper",
+    label: "Mosaic tiling (wallpaper)",
+    icon: "/icons/items/mosaictiling(wallpaper).png",
+  },
+  MountainFlowerSeeds: {
+    slug: "mountain-flower-seeds",
+    label: "Mountain-flower seeds",
+    icon: "/icons/items/mountain-flowerseeds.png",
+  },
+  MountainPoster: {
+    slug: "mountain-poster",
+    label: "Mountain poster",
+    icon: "/icons/items/mountainposter.png",
+  },
+  MuddyPureWhiteSoil: {
+    slug: "muddy-pure-white-soil",
+    label: "Muddy pure-white soil",
+    icon: "/icons/items/muddypure-whitesoil.png",
+  },
+  MushroomHamburgerSteak: {
+    slug: "mushroom-hamburger-steak",
+    label: "Mushroom hamburger steak",
+    icon: "/icons/items/mushroomhamburgersteak.png",
+  },
+  MushroomSoup: {
+    slug: "mushroom-soup",
+    label: "Mushroom soup",
+    icon: "/icons/items/mushroomsoup.png",
+  },
+  MysteriousGoggles: {
+    slug: "mysterious-goggles",
+    label: "Mysterious Goggles",
+    icon: "/icons/items/mysteriousgoggles.png",
+  },
+  MysteriousMuralKit: {
+    slug: "mysterious-mural-kit",
+    label: "Mysterious mural kit",
+    icon: "/icons/items/mysteriousmuralkit.png",
+  },
+  MysteriousSlate: {
+    slug: "mysterious-slate",
+    label: "Mysterious Slate",
+    icon: "/icons/items/mysteriousslate.png",
+  },
+  MysteriousSlateA: {
+    slug: "mysterious-slate-a",
+    label: "Mysterious Slate A",
+    icon: "/icons/items/mysteriousslatea.png",
+  },
+  MysteriousSlateB: {
+    slug: "mysterious-slate-b",
+    label: "Mysterious Slate B",
+    icon: "/icons/items/mysteriousslateb.png",
+  },
+  MysteriousSlateC: {
+    slug: "mysterious-slate-c",
+    label: "Mysterious Slate C",
+    icon: "/icons/items/mysteriousslatec.png",
+  },
+  MysteriousSlateD: {
+    slug: "mysterious-slate-d",
+    label: "Mysterious Slate D",
+    icon: "/icons/items/mysteriousslated.png",
+  },
+  MysteriousSlateE: {
+    slug: "mysterious-slate-e",
+    label: "Mysterious Slate E",
+    icon: "/icons/items/mysteriousslatee.png",
+  },
+  MysteriousSlateF: {
+    slug: "mysterious-slate-f",
+    label: "Mysterious Slate F",
+    icon: "/icons/items/mysteriousslatef.png",
+  },
+  MysteriousSlateG: {
+    slug: "mysterious-slate-g",
+    label: "Mysterious Slate G",
+    icon: "/icons/items/mysteriousslateg.png",
+  },
+  MysteriousSlateH: {
+    slug: "mysterious-slate-h",
+    label: "Mysterious Slate H",
+    icon: "/icons/items/mysteriousslateh.png",
+  },
+  MysteriousSlateI: {
+    slug: "mysterious-slate-i",
+    label: "Mysterious Slate I",
+    icon: "/icons/items/mysteriousslatei.png",
+  },
+  MysteriousSlateJ: {
+    slug: "mysterious-slate-j",
+    label: "Mysterious Slate J",
+    icon: "/icons/items/mysteriousslatej.png",
+  },
+  MysteriousSlateK: {
+    slug: "mysterious-slate-k",
+    label: "Mysterious Slate K",
+    icon: "/icons/items/mysteriousslatek.png",
+  },
+  MysteriousSlateL: {
+    slug: "mysterious-slate-l",
+    label: "Mysterious Slate L",
+    icon: "/icons/items/mysteriousslatel.png",
+  },
+  MysteriousSlateM: {
+    slug: "mysterious-slate-m",
+    label: "Mysterious Slate M",
+    icon: "/icons/items/mysteriousslatem.png",
+  },
+  MysteriousSlateN: {
+    slug: "mysterious-slate-n",
+    label: "Mysterious Slate N",
+    icon: "/icons/items/mysteriousslaten.png",
+  },
+  MysteriousSlateO: {
+    slug: "mysterious-slate-o",
+    label: "Mysterious Slate O",
+    icon: "/icons/items/mysteriousslateo.png",
+  },
+  MysteriousSlateP: {
+    slug: "mysterious-slate-p",
+    label: "Mysterious Slate P",
+    icon: "/icons/items/mysteriousslatep.png",
+  },
+  MysteriousSlateQ: {
+    slug: "mysterious-slate-q",
+    label: "Mysterious Slate Q",
+    icon: "/icons/items/mysteriousslateq.png",
+  },
+  MysteriousSlateR: {
+    slug: "mysterious-slate-r",
+    label: "Mysterious Slate R",
+    icon: "/icons/items/mysteriousslater.png",
+  },
+  MysteriousSlateS: {
+    slug: "mysterious-slate-s",
+    label: "Mysterious Slate S",
+    icon: "/icons/items/mysteriousslates.png",
+  },
+  MysteriousSlateT: {
+    slug: "mysterious-slate-t",
+    label: "Mysterious Slate T",
+    icon: "/icons/items/mysteriousslatet.png",
+  },
+  MysteriousSlateU: {
+    slug: "mysterious-slate-u",
+    label: "Mysterious Slate U",
+    icon: "/icons/items/mysteriousslateu.png",
+  },
+  MysteriousSlateV: {
+    slug: "mysterious-slate-v",
+    label: "Mysterious Slate V",
+    icon: "/icons/items/mysteriousslatev.png",
+  },
+  MysteriousSlateW: {
+    slug: "mysterious-slate-w",
+    label: "Mysterious Slate W",
+    icon: "/icons/items/mysteriousslatew.png",
+  },
+  MysteriousSlateX: {
+    slug: "mysterious-slate-x",
+    label: "Mysterious Slate X",
+    icon: "/icons/items/mysteriousslatex.png",
+  },
+  MysteriousSlateY: {
+    slug: "mysterious-slate-y",
+    label: "Mysterious Slate Y",
+    icon: "/icons/items/mysteriousslatey.png",
+  },
+  MysteriousSlateZ: {
+    slug: "mysterious-slate-z",
+    label: "Mysterious Slate Z",
+    icon: "/icons/items/mysteriousslatez.png",
+  },
+  NeoDowsingMachine: {
+    slug: "neo-dowsing-machine",
+    label: "Neo Dowsing Machine",
+    icon: "/icons/items/neodowsingmachine.png",
+  },
+  NeonFlooringWallpaper: {
+    slug: "neon-flooring-wallpaper",
+    label: "Neon flooring (wallpaper)",
+    icon: "/icons/items/neonflooring(wallpaper).png",
+  },
+  NeverMeltIce: {
+    slug: "never-melt-ice",
+    label: "Never-Melt Ice",
+    icon: "/icons/items/never-meltice.png",
+  },
+  NinjaPoster: {
+    slug: "ninja-poster",
+    label: "Ninja poster",
+    icon: "/icons/items/ninjaposter.png",
+  },
+  OblongRug: {
+    slug: "oblong-rug",
+    label: "Oblong rug",
+    icon: "/icons/items/oblongrug.png",
+  },
+  OceanPoster: {
+    slug: "ocean-poster",
+    label: "Ocean poster",
+    icon: "/icons/items/oceanposter.png",
+  },
+  OfferingDish: {
+    slug: "offering-dish",
+    label: "Offering dish",
+    icon: "/icons/items/offeringdish.png",
+  },
+  OfficeTable: {
+    slug: "office-table",
+    label: "Office table",
+    icon: "/icons/items/officetable.png",
+  },
+  OilPaintingPoster: {
+    slug: "oil-painting-poster",
+    label: "Oil painting poster",
+    icon: "/icons/items/oilpaintingposter.png",
+  },
+  OrangeCottageKit: {
+    slug: "orange-cottage-kit",
+    label: "Orange cottage kit",
+    icon: "/icons/items/orangecottagekit.png",
+  },
+  OrangeHutKit: {
+    slug: "orange-hut-kit",
+    label: "Orange hut kit",
+    icon: "/icons/items/orangehutkit.png",
+  },
+  PaintedWallWallpaper: {
+    slug: "painted-wall-wallpaper",
+    label: "Painted wall (wallpaper)",
+    icon: "/icons/items/paintedwall(wallpaper).png",
+  },
+  PalmSeeds: {
+    slug: "palm-seeds",
+    label: "Palm seeds",
+    icon: "/icons/items/palmseeds.png",
+  },
+  PalmTreeSapling: {
+    slug: "palm-tree-sapling",
+    label: "Palm tree sapling",
+    icon: "/icons/items/palmtreesapling.png",
+  },
+  PalmTreeSaplingGrow: {
+    slug: "palm-tree-sapling-grow",
+    label: "Palm tree sapling (Grow)",
+    icon: "/icons/items/palmtreesapling(grow).png",
+  },
+  PalmTreeStump: {
+    slug: "palm-tree-stump",
+    label: "Palm tree stump",
+    icon: "/icons/items/palmtreestump.png",
+  },
+  PartyCookingPot: {
+    slug: "party-cooking-pot",
+    label: "Party cooking pot",
+    icon: "/icons/items/partycookingpot.png",
+  },
+  PartyPopper: {
+    slug: "party-popper",
+    label: "Party Popper",
+    icon: "/icons/items/partypopper.png",
+  },
+  PassionatePoster: {
+    slug: "passionate-poster",
+    label: "Passionate poster",
+    icon: "/icons/items/passionateposter.png",
+  },
+  PatternedAgedStoneWallWallpaper: {
+    slug: "patterned-aged-stone-wall-wallpaper",
+    label: "Patterned aged-stone wall (wallpaper)",
+    icon: "/icons/items/patternedaged-stonewall(wallpaper).png",
+  },
+  PechaSeeds: {
+    slug: "pecha-seeds",
+    label: "Pecha Seeds",
+    icon: "/icons/items/pechaseeds.png",
+  },
+  PechaTreeSapling: {
+    slug: "pecha-tree-sapling",
+    label: "Pecha tree sapling",
+    icon: "/icons/items/pechatreesapling.png",
+  },
+  PechaTreeSaplingGrow: {
+    slug: "pecha-tree-sapling-grow",
+    label: "Pecha tree sapling (Grow)",
+    icon: "/icons/items/pechatreesapling(grow).png",
+  },
+  PechaTreeStump: {
+    slug: "pecha-tree-stump",
+    label: "Pecha tree stump",
+    icon: "/icons/items/pechatreestump.png",
+  },
+  PicnicBlanket: {
+    slug: "picnic-blanket",
+    label: "Picnic blanket",
+    icon: "/icons/items/picnicblanket.png",
+  },
+  PikachuFountainKit: {
+    slug: "pikachu-fountain-kit",
+    label: "Pikachu fountain kit",
+    icon: "/icons/items/pikachufountainkit.png",
+  },
+  PinkCottageKit: {
+    slug: "pink-cottage-kit",
+    label: "Pink cottage kit",
+    icon: "/icons/items/pinkcottagekit.png",
+  },
+  PinkHutKit: {
+    slug: "pink-hut-kit",
+    label: "Pink hut kit",
+    icon: "/icons/items/pinkhutkit.png",
+  },
+  PitchedBrickRoof: {
+    slug: "pitched-brick-roof",
+    label: "Pitched brick roof",
+    icon: "/icons/items/pitchedbrickroof.png",
+  },
+  Planter: {
+    slug: "planter",
+    label: "Planter",
+    icon: "/icons/items/planter.png",
+  },
+  PlasterWallWallpaper: {
+    slug: "plaster-wall-wallpaper",
+    label: "Plaster wall (wallpaper)",
+    icon: "/icons/items/plasterwall(wallpaper).png",
+  },
+  Plate: {
+    slug: "plate",
+    label: "Plate",
+    icon: "/icons/items/plate.png",
+  },
+  PointyTreeSapling: {
+    slug: "pointy-tree-sapling",
+    label: "Pointy tree sapling",
+    icon: "/icons/items/pointytreesapling.png",
+  },
+  PointyTreeSaplingGrow: {
+    slug: "pointy-tree-sapling-grow",
+    label: "Pointy tree sapling (Grow)",
+    icon: "/icons/items/pointytreesapling(grow).png",
+  },
+  PointyTreeSeeds: {
+    slug: "pointy-tree-seeds",
+    label: "Pointy-tree seeds",
+    icon: "/icons/items/pointy-treeseeds.png",
+  },
+  PointyTreeStump: {
+    slug: "pointy-tree-stump",
+    label: "Pointy tree stump",
+    icon: "/icons/items/pointytreestump.png",
+  },
+  PoisonBarb: {
+    slug: "poison-barb",
+    label: "Poison Barb",
+    icon: "/icons/items/poisonbarb.png",
+  },
+  PokeBallDoormat: {
+    slug: "poke-ball-doormat",
+    label: "Poke Ball Doormat",
+    icon: "/icons/items/pokeballdoormat.png",
+  },
+  PokeBallHouseKit: {
+    slug: "poke-ball-house-kit",
+    label: "Poke Ball house kit",
+    icon: "/icons/items/pokeballhousekit.png",
+  },
+  PokeBallMat: {
+    slug: "poke-ball-mat",
+    label: "Poke Ball Mat",
+    icon: "/icons/items/pokeballmat.png",
+  },
+  PokeBallPrint: {
+    slug: "poke-ball-print",
+    label: "Poke Ball print",
+    icon: "/icons/items/pokeballprint.png",
+  },
+  PokeBallPrintWallpaper: {
+    slug: "poke-ball-print-wallpaper",
+    label: "Poke Ball print (wallpaper)",
+    icon: "/icons/items/pokeballprint(wallpaper).png",
+  },
+  PokeBallTable: {
+    slug: "poke-ball-table",
+    label: "Poke Ball table",
+    icon: "/icons/items/pokeballtable.png",
+  },
+  PokeBallWall: {
+    slug: "poke-ball-wall",
+    label: "Poke Ball Wall",
+    icon: "/icons/items/pokeballwall.png",
+  },
+  PokeBallWallWallpaper: {
+    slug: "poke-ball-wall-wallpaper",
+    label: "Poke Ball wall (wallpaper)",
+    icon: "/icons/items/pokeballwall(wallpaper).png",
+  },
+  PokeMartKit: {
+    slug: "poke-mart-kit",
+    label: "Poke Mart kit",
+    icon: "/icons/items/pokemartkit.png",
+  },
+  PokemonCenterCounter: {
+    slug: "pokemon-center-counter",
+    label: "Pokemon Center counter",
+    icon: "/icons/items/pokemoncentercounter.png",
+  },
+  PokemonCenterRebuildKit: {
+    slug: "pokemon-center-rebuild-kit",
+    label: "Pokemon Center rebuild kit",
+    icon: "/icons/items/pokemoncenterrebuildkit.png",
+  },
+  PokemonCenterWallLower: {
+    slug: "pokemon-center-wall-lower",
+    label: "Pokemon Center wall (lower)",
+    icon: "/icons/items/pokemoncenterwall(lower).png",
+  },
+  PokemonCenterWallMiddle: {
+    slug: "pokemon-center-wall-middle",
+    label: "Pokemon Center wall (middle)",
+    icon: "/icons/items/pokemoncenterwall(middle).png",
+  },
+  PokemonCenterWallTrim: {
+    slug: "pokemon-center-wall-trim",
+    label: "Pokemon Center wall (trim)",
+    icon: "/icons/items/pokemoncenterwall(trim).png",
+  },
+  PokemonCenterWallUpper: {
+    slug: "pokemon-center-wall-upper",
+    label: "Pokemon Center wall (upper)",
+    icon: "/icons/items/pokemoncenterwall(upper).png",
+  },
+  PolkaDotPrint: {
+    slug: "polka-dot-print",
+    label: "Polka-dot print",
+    icon: "/icons/items/polka-dotprint.png",
+  },
+  PolkaDotPrintWallpaper: {
+    slug: "polka-dot-print-wallpaper",
+    label: "Polka-dot Print (wallpaper)",
+    icon: "/icons/items/polka-dotprint(wallpaper).png",
+  },
+  Potato: {
+    slug: "potato",
+    label: "Potato",
+    icon: "/icons/items/potato.png",
+  },
+  PotatoHamburgerSteak: {
+    slug: "potato-hamburger-steak",
+    label: "Potato hamburger steak",
+    icon: "/icons/items/potatohamburgersteak.png",
+  },
+  PotatoSeeds: {
+    slug: "potato-seeds",
+    label: "Potato seeds",
+    icon: "/icons/items/potatoseeds.png",
+  },
+  PotatoSprout: {
+    slug: "potato-sprout",
+    label: "Potato sprout",
+    icon: "/icons/items/potatosprout.png",
+  },
+  PotatoSproutGrow: {
+    slug: "potato-sprout-grow",
+    label: "Potato sprout (Grow)",
+    icon: "/icons/items/potatosprout(grow).png",
+  },
+  ProfessorSTreasureTrove: {
+    slug: "professor-s-treasure-trove",
+    label: "Professor's treasure trove",
+    icon: "/icons/items/professor'streasuretrove.png",
+  },
+  PuffyTreePillar: {
+    slug: "puffy-tree-pillar",
+    label: "Puffy-tree Pillar",
+    icon: "/icons/items/puffy-treepillar.png",
+  },
+  PuffyTreePillarWallpaper: {
+    slug: "puffy-tree-pillar-wallpaper",
+    label: "Puffy-tree pillar (wallpaper)",
+    icon: "/icons/items/puffy-treepillar(wallpaper).png",
+  },
+  Pulley: {
+    slug: "pulley",
+    label: "Pulley",
+    icon: "/icons/items/pulley.png",
+  },
+  QuickClaw: {
+    slug: "quick-claw",
+    label: "Quick Claw",
+    icon: "/icons/items/quickclaw.png",
+  },
+  RainbowishBadge: {
+    slug: "rainbowish-badge",
+    label: "Rainbowish Badge",
+    icon: "/icons/items/rainbowishbadge.png",
+  },
+  RareBone: {
+    slug: "rare-bone",
+    label: "Rare Bone",
+    icon: "/icons/items/rarebone.png",
+  },
+  RareCandy: {
+    slug: "rare-candy",
+    label: "Rare Candy",
+    icon: "/icons/items/rarecandy.png",
+  },
+  RatanRug: {
+    slug: "ratan-rug",
+    label: "Ratan rug",
+    icon: "/icons/items/ratanrug.png",
+  },
+  RawstSeeds: {
+    slug: "rawst-seeds",
+    label: "Rawst seeds",
+    icon: "/icons/items/rawstseeds.png",
+  },
+  RawstTreeSapling: {
+    slug: "rawst-tree-sapling",
+    label: "Rawst tree sapling",
+    icon: "/icons/items/rawsttreesapling.png",
+  },
+  RawstTreeSaplingGrow: {
+    slug: "rawst-tree-sapling-grow",
+    label: "Rawst tree sapling (Grow)",
+    icon: "/icons/items/rawsttreesapling(grow).png",
+  },
+  RawstTreeStump: {
+    slug: "rawst-tree-stump",
+    label: "Rawst tree stump",
+    icon: "/icons/items/rawsttreestump.png",
+  },
+  RecycledBread: {
+    slug: "recycled-bread",
+    label: "Recycled bread",
+    icon: "/icons/items/recycledbread.png",
+  },
+  RedCrystalCluster: {
+    slug: "red-crystal-cluster",
+    label: "Red crystal cluster",
+    icon: "/icons/items/redcrystalcluster.png",
+  },
+  RelaxingParkKit: {
+    slug: "relaxing-park-kit",
+    label: "Relaxing park kit",
+    icon: "/icons/items/relaxingparkkit.png",
+  },
+  RelocationKitPrepare: {
+    slug: "relocation-kit-prepare",
+    label: "Relocation kit (prepare)",
+    icon: "/icons/items/relocationkit(prepare).png",
+  },
+  RelocationKitReconstruct: {
+    slug: "relocation-kit-reconstruct",
+    label: "Relocation kit (reconstruct)",
+    icon: "/icons/items/relocationkit(reconstruct).png",
+  },
+  RidgePokemonCenterKit: {
+    slug: "ridge-pokemon-center-kit",
+    label: "Ridge Pokemon Center kit",
+    icon: "/icons/items/ridgepokemoncenterkit.png",
+  },
+  RipeBeanPlantGrow: {
+    slug: "ripe-bean-plant-grow",
+    label: "Ripe bean plant (Grow)",
+    icon: "/icons/items/ripebeanplant(grow).png",
+  },
+  RipePotatoPlant: {
+    slug: "ripe-potato-plant",
+    label: "Ripe potato plant",
+    icon: "/icons/items/ripepotatoplant.png",
+  },
+  RipePotatoPlantGrow: {
+    slug: "ripe-potato-plant-grow",
+    label: "Ripe potato plant (Grow)",
+    icon: "/icons/items/ripepotatoplant(grow).png",
+  },
+  RipeTomatoPlant: {
+    slug: "ripe-tomato-plant",
+    label: "Ripe Tomato plant",
+    icon: "/icons/items/ripetomatoplant.png",
+  },
+  RipeTomatoPlantGrow: {
+    slug: "ripe-tomato-plant-grow",
+    label: "Ripe Tomato plant (Grow)",
+    icon: "/icons/items/ripetomatoplant(grow).png",
+  },
+  RobustFlowerSeeds: {
+    slug: "robust-flower-seeds",
+    label: "Robust-flower seeds",
+    icon: "/icons/items/robust-flowerseeds.png",
+  },
+  RoofSupport: {
+    slug: "roof-support",
+    label: "Roof support",
+    icon: "/icons/items/roofsupport.png",
+  },
+  RoughWallWallpaper: {
+    slug: "rough-wall-wallpaper",
+    label: "Rough wall (wallpaper)",
+    icon: "/icons/items/roughwall(wallpaper).png",
+  },
+  RoundPillarLower: {
+    slug: "round-pillar-lower",
+    label: "Round pillar (lower)",
+    icon: "/icons/items/roundpillar(lower).png",
+  },
+  RoundPillarMiddle: {
+    slug: "round-pillar-middle",
+    label: "Round pillar (middle)",
+    icon: "/icons/items/roundpillar(middle).png",
+  },
+  RoundPillarUpper: {
+    slug: "round-pillar-upper",
+    label: "Round pillar (upper)",
+    icon: "/icons/items/roundpillar(upper).png",
+  },
+  RusticDoor: {
+    slug: "rustic-door",
+    label: "Rustic door",
+    icon: "/icons/items/rusticdoor.png",
+  },
+  SandCottageKit: {
+    slug: "sand-cottage-kit",
+    label: "Sand cottage kit",
+    icon: "/icons/items/sandcottagekit.png",
+  },
+  SandDenKit: {
+    slug: "sand-den-kit",
+    label: "Sand den kit",
+    icon: "/icons/items/sanddenkit.png",
+  },
+  SandHouseKit: {
+    slug: "sand-house-kit",
+    label: "Sand house kit",
+    icon: "/icons/items/sandhousekit.png",
+  },
+  SandHutKit: {
+    slug: "sand-hut-kit",
+    label: "Sand hut kit",
+    icon: "/icons/items/sandhutkit.png",
+  },
+  ScrapCubeWallpaper: {
+    slug: "scrap-cube-wallpaper",
+    label: "Scrap cube (wallpaper)",
+    icon: "/icons/items/scrapcube(wallpaper).png",
+  },
+  SeaGlassFragmentsOutdoor: {
+    slug: "sea-glass-fragments-outdoor",
+    label: "Sea glass fragments (outdoor)",
+    icon: "/icons/items/seaglassfragments(outdoor).png",
+  },
+  SeashellOutdoor: {
+    slug: "seashell-outdoor",
+    label: "Seashell (outdoor)",
+    icon: "/icons/items/seashell(outdoor).png",
+  },
+  SeashoreFlowerSeeds: {
+    slug: "seashore-flower-seeds",
+    label: "Seashore-flower seeds",
+    icon: "/icons/items/seashore-flowerseeds.png",
+  },
+  SeaweedOutdoor: {
+    slug: "seaweed-outdoor",
+    label: "Seaweed (outdoor)",
+    icon: "/icons/items/seaweed(outdoor).png",
+  },
+  SeaweedSalad: {
+    slug: "seaweed-salad",
+    label: "Seaweed salad",
+    icon: "/icons/items/seaweedsalad.png",
+  },
+  SeaweedSoup: {
+    slug: "seaweed-soup",
+    label: "Seaweed soup",
+    icon: "/icons/items/seaweedsoup.png",
+  },
+  SharpBeak: {
+    slug: "sharp-beak",
+    label: "Sharp Beak",
+    icon: "/icons/items/sharpbeak.png",
+  },
+  ShiningWishNote: {
+    slug: "shining-wish-note",
+    label: "Shining wish note",
+    icon: "/icons/items/shiningwishnote.png",
+  },
+  ShopFlooring: {
+    slug: "shop-flooring",
+    label: "Shop flooring",
+    icon: "/icons/items/shopflooring.png",
+  },
+  ShopTilingWallpaper: {
+    slug: "shop-tiling-wallpaper",
+    label: "Shop tiling (wallpaper)",
+    icon: "/icons/items/shoptiling(wallpaper).png",
+  },
+  ShreddedSalad: {
+    slug: "shredded-salad",
+    label: "Shredded salad",
+    icon: "/icons/items/shreddedsalad.png",
+  },
+  Shutter: {
+    slug: "shutter",
+    label: "Shutter",
+    icon: "/icons/items/shutter.png",
+  },
+  SimpleBread: {
+    slug: "simple-bread",
+    label: "Simple bread",
+    icon: "/icons/items/simplebread.png",
+  },
+  SimpleCurtainLeft: {
+    slug: "simple-curtain-left",
+    label: "Simple curtain (left)",
+    icon: "/icons/items/simplecurtain(left).png",
+  },
+  SimpleCurtainRight: {
+    slug: "simple-curtain-right",
+    label: "Simple curtain (right)",
+    icon: "/icons/items/simplecurtain(right).png",
+  },
+  SimpleDoor: {
+    slug: "simple-door",
+    label: "Simple door",
+    icon: "/icons/items/simpledoor.png",
+  },
+  SimpleFlooringWallpaper: {
+    slug: "simple-flooring-wallpaper",
+    label: "Simple flooring (wallpaper)",
+    icon: "/icons/items/simpleflooring(wallpaper).png",
+  },
+  SimpleHamburgerSteak: {
+    slug: "simple-hamburger-steak",
+    label: "Simple hamburger steak",
+    icon: "/icons/items/simplehamburgersteak.png",
+  },
+  SimplePillarQuarter: {
+    slug: "simple-pillar-quarter",
+    label: "Simple pillar quarter",
+    icon: "/icons/items/simplepillarquarter.png",
+  },
+  SimpleSalad: {
+    slug: "simple-salad",
+    label: "Simple salad",
+    icon: "/icons/items/simplesalad.png",
+  },
+  SimpleSoup: {
+    slug: "simple-soup",
+    label: "Simple soup",
+    icon: "/icons/items/simplesoup.png",
+  },
+  SimpleSquareTilingWallpaper: {
+    slug: "simple-square-tiling-wallpaper",
+    label: "Simple square tiling (wallpaper)",
+    icon: "/icons/items/simplesquaretiling(wallpaper).png",
+  },
+  SkylandFlowerSeeds: {
+    slug: "skyland-flower-seeds",
+    label: "Skyland-flower seeds",
+    icon: "/icons/items/skyland-flowerseeds.png",
+  },
+  SkylandPokemonCenterKit: {
+    slug: "skyland-pokemon-center-kit",
+    label: "Skyland Pokemon Center kit",
+    icon: "/icons/items/skylandpokemoncenterkit.png",
+  },
+  Skylight: {
+    slug: "skylight",
+    label: "Skylight",
+    icon: "/icons/items/skylight.png",
+  },
+  SlopedStoneRoof: {
+    slug: "sloped-stone-roof",
+    label: "Sloped stone roof",
+    icon: "/icons/items/slopedstoneroof.png",
+  },
+  SlopedTentRoof: {
+    slug: "sloped-tent-roof",
+    label: "Sloped tent roof",
+    icon: "/icons/items/slopedtentroof.png",
+  },
+  SlopedTiledRoof: {
+    slug: "sloped-tiled-roof",
+    label: "Sloped tiled roof",
+    icon: "/icons/items/slopedtiledroof.png",
+  },
+  SlowpokeRug: {
+    slug: "slowpoke-rug",
+    label: "Slowpoke rug",
+    icon: "/icons/items/slowpokerug.png",
+  },
+  SmallAspearTree: {
+    slug: "small-aspear-tree",
+    label: "Small Aspear tree",
+    icon: "/icons/items/smallaspeartree.png",
+  },
+  SmallAspearTreeGrow: {
+    slug: "small-aspear-tree-grow",
+    label: "Small Aspear tree (Grow)",
+    icon: "/icons/items/smallaspeartree(grow).png",
+  },
+  SmallChestoTree: {
+    slug: "small-chesto-tree",
+    label: "Small Chesto tree",
+    icon: "/icons/items/smallchestotree.png",
+  },
+  SmallChestoTreeGrow: {
+    slug: "small-chesto-tree-grow",
+    label: "Small Chesto tree (Grow)",
+    icon: "/icons/items/smallchestotree(grow).png",
+  },
+  SmallLeppaTree: {
+    slug: "small-leppa-tree",
+    label: "Small Leppa tree",
+    icon: "/icons/items/smallleppatree.png",
+  },
+  SmallLeppaTreeGrow: {
+    slug: "small-leppa-tree-grow",
+    label: "Small Leppa tree (Grow)",
+    icon: "/icons/items/smallleppatree(grow).png",
+  },
+  SmallLumTree: {
+    slug: "small-lum-tree",
+    label: "Small Lum tree",
+    icon: "/icons/items/smalllumtree.png",
+  },
+  SmallLumTreeGrow: {
+    slug: "small-lum-tree-grow",
+    label: "Small Lum tree (Grow)",
+    icon: "/icons/items/smalllumtree(grow).png",
+  },
+  SmallNarrowRug: {
+    slug: "small-narrow-rug",
+    label: "Small narrow rug",
+    icon: "/icons/items/smallnarrowrug.png",
+  },
+  SmallOfficeKit: {
+    slug: "small-office-kit",
+    label: "Small office kit",
+    icon: "/icons/items/smallofficekit.png",
+  },
+  SmallPalmTree: {
+    slug: "small-palm-tree",
+    label: "Small palm tree",
+    icon: "/icons/items/smallpalmtree.png",
+  },
+  SmallPalmTreeGrow: {
+    slug: "small-palm-tree-grow",
+    label: "Small palm tree (Grow)",
+    icon: "/icons/items/smallpalmtree(grow).png",
+  },
+  SmallPechaTree: {
+    slug: "small-pecha-tree",
+    label: "Small Pecha tree",
+    icon: "/icons/items/smallpechatree.png",
+  },
+  SmallPechaTreeGrow: {
+    slug: "small-pecha-tree-grow",
+    label: "Small Pecha tree (Grow)",
+    icon: "/icons/items/smallpechatree(grow).png",
+  },
+  SmallPointyTree: {
+    slug: "small-pointy-tree",
+    label: "Small pointy tree",
+    icon: "/icons/items/smallpointytree.png",
+  },
+  SmallPointyTreeGrow: {
+    slug: "small-pointy-tree-grow",
+    label: "Small pointy tree (Grow)",
+    icon: "/icons/items/smallpointytree(grow).png",
+  },
+  SmallRawstTree: {
+    slug: "small-rawst-tree",
+    label: "Small Rawst tree",
+    icon: "/icons/items/smallrawsttree.png",
+  },
+  SmallRawstTreeGrow: {
+    slug: "small-rawst-tree-grow",
+    label: "Small Rawst tree (Grow)",
+    icon: "/icons/items/smallrawsttree(grow).png",
+  },
+  SmallRoundRug: {
+    slug: "small-round-rug",
+    label: "Small round rug",
+    icon: "/icons/items/smallroundrug.png",
+  },
+  SmallSquareRug: {
+    slug: "small-square-rug",
+    label: "Small square rug",
+    icon: "/icons/items/smallsquarerug.png",
+  },
+  SmallWheatPlant: {
+    slug: "small-wheat-plant",
+    label: "Small wheat plant",
+    icon: "/icons/items/smallwheatplant.png",
+  },
+  SmallWheatPlantGrow: {
+    slug: "small-wheat-plant-grow",
+    label: "Small wheat plant (Grow)",
+    icon: "/icons/items/smallwheatplant(grow).png",
+  },
+  SodaPop: {
+    slug: "soda-pop",
+    label: "Soda Pop",
+    icon: "/icons/items/sodapop.png",
+  },
+  SoftMat: {
+    slug: "soft-mat",
+    label: "Soft mat",
+    icon: "/icons/items/softmat.png",
+  },
+  SoulLikeBadge: {
+    slug: "soul-like-badge",
+    label: "Soul-like Badge",
+    icon: "/icons/items/soul-likebadge.png",
+  },
+  SpeedyPoster: {
+    slug: "speedy-poster",
+    label: "Speedy poster",
+    icon: "/icons/items/speedyposter.png",
+  },
+  SquarePlantSeeds: {
+    slug: "square-plant-seeds",
+    label: "Square-plant seeds",
+    icon: "/icons/items/square-plantseeds.png",
+  },
+  SquareTilingWallpaper: {
+    slug: "square-tiling-wallpaper",
+    label: "Square tiling (wallpaper)",
+    icon: "/icons/items/squaretiling(wallpaper).png",
+  },
+  StarCloset: {
+    slug: "star-closet",
+    label: "Star closet",
+    icon: "/icons/items/starcloset.png",
+  },
+  StarMat: {
+    slug: "star-mat",
+    label: "Star mat",
+    icon: "/icons/items/starmat.png",
+  },
+  StarPrint: {
+    slug: "star-print",
+    label: "Star print",
+    icon: "/icons/items/starprint.png",
+  },
+  StarPrintWallpaper: {
+    slug: "star-print-wallpaper",
+    label: "Star print (wallpaper)",
+    icon: "/icons/items/starprint(wallpaper).png",
+  },
+  StarShapedDresser: {
+    slug: "star-shaped-dresser",
+    label: "Star-shaped Dresser",
+    icon: "/icons/items/star-shapeddresser.png",
+  },
+  StarWallDecoration: {
+    slug: "star-wall-decoration",
+    label: "Star wall decoration",
+    icon: "/icons/items/starwalldecoration.png",
+  },
+  StarrySkyBed: {
+    slug: "starry-sky-bed",
+    label: "Starry-sky bed",
+    icon: "/icons/items/starry-skybed.png",
+  },
+  StarrySkyWallWallpaper: {
+    slug: "starry-sky-wall-wallpaper",
+    label: "Starry-sky wall (wallpaper)",
+    icon: "/icons/items/starry-skywall(wallpaper).png",
+  },
+  StickyBarb: {
+    slug: "sticky-barb",
+    label: "Sticky Barb",
+    icon: "/icons/items/stickybarb.png",
+  },
+  StoneCottageKit: {
+    slug: "stone-cottage-kit",
+    label: "Stone cottage kit",
+    icon: "/icons/items/stonecottagekit.png",
+  },
+  StoneDenKit: {
+    slug: "stone-den-kit",
+    label: "Stone den kit",
+    icon: "/icons/items/stonedenkit.png",
+  },
+  StoneFencing: {
+    slug: "stone-fencing",
+    label: "Stone fencing",
+    icon: "/icons/items/stonefencing.png",
+  },
+  StoneHouseKit: {
+    slug: "stone-house-kit",
+    label: "Stone house kit",
+    icon: "/icons/items/stonehousekit.png",
+  },
+  StoneHutKit: {
+    slug: "stone-hut-kit",
+    label: "Stone hut kit",
+    icon: "/icons/items/stonehutkit.png",
+  },
+  StoneOutdoor: {
+    slug: "stone-outdoor",
+    label: "Stone (outdoor)",
+    icon: "/icons/items/stone(outdoor).png",
+  },
+  StripedWallWallpaper: {
+    slug: "striped-wall-wallpaper",
+    label: "Striped wall (wallpaper)",
+    icon: "/icons/items/stripedwall(wallpaper).png",
+  },
+  SturdyStickOutdoor: {
+    slug: "sturdy-stick-outdoor",
+    label: "Sturdy stick (outdoor)",
+    icon: "/icons/items/sturdystick(outdoor).png",
+  },
+  StylishBronzeWall: {
+    slug: "stylish-bronze-wall",
+    label: "Stylish Bronze wall",
+    icon: "/icons/items/stylishbronzewall.png",
+  },
+  StylishBronzeWallWallpaper: {
+    slug: "stylish-bronze-wall-wallpaper",
+    label: "Stylish bronze wall (wallpaper)",
+    icon: "/icons/items/stylishbronzewall(wallpaper).png",
+  },
+  StylishCafeKit: {
+    slug: "stylish-cafe-kit",
+    label: "Stylish Cafe kit",
+    icon: "/icons/items/stylishcafekit.png",
+  },
+  StylishCookingPot: {
+    slug: "stylish-cooking-pot",
+    label: "Stylish cooking pot",
+    icon: "/icons/items/stylishcookingpot.png",
+  },
+  StylishDoor: {
+    slug: "stylish-door",
+    label: "Stylish door",
+    icon: "/icons/items/stylishdoor.png",
+  },
+  StylishFryingPan: {
+    slug: "stylish-frying-pan",
+    label: "Stylish frying pan",
+    icon: "/icons/items/stylishfryingpan.png",
+  },
+  StylishGoldWallWallpaper: {
+    slug: "stylish-gold-wall-wallpaper",
+    label: "Stylish gold wall (wallpaper)",
+    icon: "/icons/items/stylishgoldwall(wallpaper).png",
+  },
+  StylishHedgeSapling: {
+    slug: "stylish-hedge-sapling",
+    label: "Stylish hedge sapling",
+    icon: "/icons/items/stylishhedgesapling.png",
+  },
+  StylishHedgeSaplingGrow: {
+    slug: "stylish-hedge-sapling-grow",
+    label: "Stylish hedge sapling (Grow)",
+    icon: "/icons/items/stylishhedgesapling(grow).png",
+  },
+  StylishHedgeSeeds: {
+    slug: "stylish-hedge-seeds",
+    label: "Stylish-hedge seeds",
+    icon: "/icons/items/stylish-hedgeseeds.png",
+  },
+  StylishIronWall: {
+    slug: "stylish-iron-wall",
+    label: "Stylish iron wall",
+    icon: "/icons/items/stylishironwall.png",
+  },
+  StylishIronWallWallpaper: {
+    slug: "stylish-iron-wall-wallpaper",
+    label: "Stylish iron wall (wallpaper)",
+    icon: "/icons/items/stylishironwall(wallpaper).png",
+  },
+  StylishPokeBallPrint: {
+    slug: "stylish-poke-ball-print",
+    label: "Stylish Poke Ball print",
+    icon: "/icons/items/stylishpokeballprint.png",
+  },
+  StylishPokeBallPrintWallpaper: {
+    slug: "stylish-poke-ball-print-wallpaper",
+    label: "Stylish Poke Ball print (wallpaper)",
+    icon: "/icons/items/stylishpokeballprint(wallpaper).png",
+  },
+  StylishSteps: {
+    slug: "stylish-steps",
+    label: "Stylish steps",
+    icon: "/icons/items/stylishsteps.png",
+  },
+  StylishStoneFlooringWallpaper: {
+    slug: "stylish-stone-flooring-wallpaper",
+    label: "Stylish stone flooring (wallpaper)",
+    icon: "/icons/items/stylishstoneflooring(wallpaper).png",
+  },
+  StylishTilingWallpaper: {
+    slug: "stylish-tiling-wallpaper",
+    label: "Stylish tiling (wallpaper)",
+    icon: "/icons/items/stylishtiling(wallpaper).png",
+  },
+  StylishWallLower: {
+    slug: "stylish-wall-lower",
+    label: "Stylish wall (lower)",
+    icon: "/icons/items/stylishwall(lower).png",
+  },
+  StylishWallMiddle: {
+    slug: "stylish-wall-middle",
+    label: "Stylish wall (middle)",
+    icon: "/icons/items/stylishwall(middle).png",
+  },
+  StylishWallUpper: {
+    slug: "stylish-wall-upper",
+    label: "Stylish wall (upper)",
+    icon: "/icons/items/stylishwall(upper).png",
+  },
+  SunnyPoster: {
+    slug: "sunny-poster",
+    label: "Sunny Poster",
+    icon: "/icons/items/sunnyposter.png",
+  },
+  SwingingDoors: {
+    slug: "swinging-doors",
+    label: "Swinging doors",
+    icon: "/icons/items/swingingdoors.png",
+  },
+  SwirlPrint: {
+    slug: "swirl-print",
+    label: "Swirl print",
+    icon: "/icons/items/swirlprint.png",
+  },
+  SwirlPrintWallpaper: {
+    slug: "swirl-print-wallpaper",
+    label: "Swirl print (wallpaper)",
+    icon: "/icons/items/swirlprint(wallpaper).png",
+  },
+  TallGrass: {
+    slug: "tall-grass",
+    label: "Tall grass",
+    icon: "/icons/items/tallgrass.png",
+  },
+  TartanPrint: {
+    slug: "tartan-print",
+    label: "Tartan print",
+    icon: "/icons/items/tartanprint.png",
+  },
+  TartanPrintWallpaper: {
+    slug: "tartan-print-wallpaper",
+    label: "Tartan print (wallpaper)",
+    icon: "/icons/items/tartanprint(wallpaper).png",
+  },
+  TatamiMat: {
+    slug: "tatami-mat",
+    label: "Tatami mat",
+    icon: "/icons/items/tatamimat.png",
+  },
+  TechnologyPoster: {
+    slug: "technology-poster",
+    label: "Technology poster",
+    icon: "/icons/items/technologyposter.png",
+  },
+  Telescope: {
+    slug: "telescope",
+    label: "Telescope",
+    icon: "/icons/items/telescope.png",
+  },
+  TentHippedRoof: {
+    slug: "tent-hipped-roof",
+    label: "Tent hipped roof",
+    icon: "/icons/items/tenthippedroof.png",
+  },
+  TentKit: {
+    slug: "tent-kit",
+    label: "Tent kit",
+    icon: "/icons/items/tentkit.png",
+  },
+  TentRoofValley: {
+    slug: "tent-roof-valley",
+    label: "Tent roof valley",
+    icon: "/icons/items/tentroofvalley.png",
+  },
+  TerrainExtender: {
+    slug: "terrain-extender",
+    label: "Terrain Extender",
+    icon: "/icons/items/terrainextender.png",
+  },
+  ThroatSpray: {
+    slug: "throat-spray",
+    label: "Throat Spray",
+    icon: "/icons/items/throatspray.png",
+  },
+  ThunderishBadge: {
+    slug: "thunderish-badge",
+    label: "Thunderish Badge",
+    icon: "/icons/items/thunderishbadge.png",
+  },
+  TiledHippedRoof: {
+    slug: "tiled-hipped-roof",
+    label: "Tiled hipped roof",
+    icon: "/icons/items/tiledhippedroof.png",
+  },
+  TiledRoofDecoration: {
+    slug: "tiled-roof-decoration",
+    label: "Tiled roof decoration",
+    icon: "/icons/items/tiledroofdecoration.png",
+  },
+  TiledRoofValley: {
+    slug: "tiled-roof-valley",
+    label: "Tiled roof valley",
+    icon: "/icons/items/tiledroofvalley.png",
+  },
+  TomatoHamburgerSteak: {
+    slug: "tomato-hamburger-steak",
+    label: "Tomato hamburger steak",
+    icon: "/icons/items/tomatohamburgersteak.png",
+  },
+  TomatoSeeds: {
+    slug: "tomato-seeds",
+    label: "Tomato seeds",
+    icon: "/icons/items/tomatoseeds.png",
+  },
+  TomatoSprout: {
+    slug: "tomato-sprout",
+    label: "Tomato sprout",
+    icon: "/icons/items/tomatosprout.png",
+  },
+  TomatoSproutGrow: {
+    slug: "tomato-sprout-grow",
+    label: "Tomato sprout (Grow)",
+    icon: "/icons/items/tomatosprout(grow).png",
+  },
+  TownscapePoster: {
+    slug: "townscape-poster",
+    label: "Townscape poster",
+    icon: "/icons/items/townscapeposter.png",
+  },
+  TriangleDesignFlooring: {
+    slug: "triangle-design-flooring",
+    label: "Triangle-design flooring",
+    icon: "/icons/items/triangle-designflooring.png",
+  },
+  TriangleDesignFlooringWallpaper: {
+    slug: "triangle-design-flooring-wallpaper",
+    label: "Triangle-design flooring (wallpaper)",
+    icon: "/icons/items/triangle-designflooring(wallpaper).png",
+  },
+  UndergroundHatch: {
+    slug: "underground-hatch",
+    label: "Underground hatch",
+    icon: "/icons/items/undergroundhatch.png",
+  },
+  VerticalStripePrint: {
+    slug: "vertical-stripe-print",
+    label: "Vertical-stripe print",
+    icon: "/icons/items/vertical-stripeprint.png",
+  },
+  VerticalStripePrintWallpaper: {
+    slug: "vertical-stripe-print-wallpaper",
+    label: "Vertical-stripe print (wallpaper)",
+    icon: "/icons/items/vertical-stripeprint(wallpaper).png",
+  },
+  VibrantHamburgerSteak: {
+    slug: "vibrant-hamburger-steak",
+    label: "Vibrant hamburger steak",
+    icon: "/icons/items/vibranthamburgersteak.png",
+  },
+  VinePrint: {
+    slug: "vine-print",
+    label: "Vine print",
+    icon: "/icons/items/vineprint.png",
+  },
+  VinePrintWallpaper: {
+    slug: "vine-print-wallpaper",
+    label: "Vine print (wallpaper)",
+    icon: "/icons/items/vineprint(wallpaper).png",
+  },
+  VolcanoeyBadge: {
+    slug: "volcanoey-badge",
+    label: "Volcanoey Badge",
+    icon: "/icons/items/volcanoeybadge.png",
+  },
+  WallMountedTable: {
+    slug: "wall-mounted-table",
+    label: "Wall-mounted table",
+    icon: "/icons/items/wall-mountedtable.png",
+  },
+  WarningWallWallpaper: {
+    slug: "warning-wall-wallpaper",
+    label: "Warning wall (wallpaper)",
+    icon: "/icons/items/warningwall(wallpaper).png",
+  },
+  WastelandPokemonCenterKit: {
+    slug: "wasteland-pokemon-center-kit",
+    label: "Wasteland Pokemon Center kit",
+    icon: "/icons/items/wastelandpokemoncenterkit.png",
+  },
+  WastepaperOutdoor: {
+    slug: "wastepaper-outdoor",
+    label: "Wastepaper (outdoor)",
+    icon: "/icons/items/wastepaper(outdoor).png",
+  },
+  WatercolorPoster: {
+    slug: "watercolor-poster",
+    label: "Watercolor poster",
+    icon: "/icons/items/watercolorposter.png",
+  },
+  WaterwheelKit: {
+    slug: "waterwheel-kit",
+    label: "Waterwheel kit",
+    icon: "/icons/items/waterwheelkit.png",
+  },
+  WheatSeeds: {
+    slug: "wheat-seeds",
+    label: "Wheat seeds",
+    icon: "/icons/items/wheatseeds.png",
+  },
+  WheatSprout: {
+    slug: "wheat-sprout",
+    label: "Wheat sprout",
+    icon: "/icons/items/wheatsprout.png",
+  },
+  WheatSproutGrow: {
+    slug: "wheat-sprout-grow",
+    label: "Wheat sprout (Grow)",
+    icon: "/icons/items/wheatsprout(grow).png",
+  },
+  WideLens: {
+    slug: "wide-lens",
+    label: "Wide Lens",
+    icon: "/icons/items/widelens.png",
+  },
+  WildflowerSeeds: {
+    slug: "wildflower-seeds",
+    label: "Wildflower seeds",
+    icon: "/icons/items/wildflowerseeds.png",
+  },
+  WindmillKit: {
+    slug: "windmill-kit",
+    label: "Windmill kit",
+    icon: "/icons/items/windmillkit.png",
+  },
+  WindmillPoster: {
+    slug: "windmill-poster",
+    label: "Windmill poster",
+    icon: "/icons/items/windmillposter.png",
+  },
+  WinterPrint: {
+    slug: "winter-print",
+    label: "Winter print",
+    icon: "/icons/items/winterprint.png",
+  },
+  WinterPrintWallpaper: {
+    slug: "winter-print-wallpaper",
+    label: "Winter print (wallpaper)",
+    icon: "/icons/items/winterprint(wallpaper).png",
+  },
+  WishNote: {
+    slug: "wish-note",
+    label: "Wish note",
+    icon: "/icons/items/wishnote.png",
+  },
+  WoodenBorderCorner: {
+    slug: "wooden-border-corner",
+    label: "Wooden border (corner)",
+    icon: "/icons/items/woodenborder(corner).png",
+  },
+  WoodenBorderLine: {
+    slug: "wooden-border-line",
+    label: "Wooden border (line)",
+    icon: "/icons/items/woodenborder(line).png",
+  },
+  WoodenBorderSingle: {
+    slug: "wooden-border-single",
+    label: "Wooden border (single)",
+    icon: "/icons/items/woodenborder(single).png",
+  },
+  WoodenEnclosure: {
+    slug: "wooden-enclosure",
+    label: "Wooden enclosure",
+    icon: "/icons/items/woodenenclosure.png",
+  },
+  WoodenFencing: {
+    slug: "wooden-fencing",
+    label: "Wooden fencing",
+    icon: "/icons/items/woodenfencing.png",
+  },
+  WoodenFlooringWallpaper: {
+    slug: "wooden-flooring-wallpaper",
+    label: "Wooden flooring (wallpaper)",
+    icon: "/icons/items/woodenflooring(wallpaper).png",
+  },
+  WoodenGate: {
+    slug: "wooden-gate",
+    label: "Wooden gate",
+    icon: "/icons/items/woodengate.png",
+  },
+  WoodenHandrail: {
+    slug: "wooden-handrail",
+    label: "Wooden handrail",
+    icon: "/icons/items/woodenhandrail.png",
+  },
+  WoodenLadder: {
+    slug: "wooden-ladder",
+    label: "Wooden ladder",
+    icon: "/icons/items/woodenladder.png",
+  },
+  WoodenPartition: {
+    slug: "wooden-partition",
+    label: "Wooden partition",
+    icon: "/icons/items/woodenpartition.png",
+  },
+  WoodenPosts: {
+    slug: "wooden-posts",
+    label: "Wooden posts",
+    icon: "/icons/items/woodenposts.png",
+  },
+  WoodenSidingCorner: {
+    slug: "wooden-siding-corner",
+    label: "Wooden siding (corner)",
+    icon: "/icons/items/woodensiding(corner).png",
+  },
+  WoodenSidingPanel: {
+    slug: "wooden-siding-panel",
+    label: "Wooden siding (panel)",
+    icon: "/icons/items/woodensiding(panel).png",
+  },
+  WoodenSteps: {
+    slug: "wooden-steps",
+    label: "Wooden steps",
+    icon: "/icons/items/woodensteps.png",
+  },
+  WoodenTable: {
+    slug: "wooden-table",
+    label: "Wooden table",
+    icon: "/icons/items/woodentable.png",
+  },
+  WoodenWallWallpaper: {
+    slug: "wooden-wall-wallpaper",
+    label: "Wooden wall (wallpaper)",
+    icon: "/icons/items/woodenwall(wallpaper).png",
+  },
+  Workbench: {
+    slug: "workbench",
+    label: "Workbench",
+    icon: "/icons/items/workbench.png",
+  },
+  WovenCarpetingWallpaper: {
+    slug: "woven-carpeting-wallpaper",
+    label: "Woven carpeting (wallpaper)",
+    icon: "/icons/items/wovencarpeting(wallpaper).png",
+  },
+  YellowCottageKit: {
+    slug: "yellow-cottage-kit",
+    label: "Yellow cottage kit",
+    icon: "/icons/items/yellowcottagekit.png",
+  },
+  YellowHutKit: {
+    slug: "yellow-hut-kit",
+    label: "Yellow hut kit",
+    icon: "/icons/items/yellowhutkit.png",
+  },
+  ZigZagPrint: {
+    slug: "zig-zag-print",
+    label: "Zig-zag print",
+    icon: "/icons/items/zig-zagprint.png",
+  },
+  ZigZagPrintWallpaper: {
+    slug: "zig-zag-print-wallpaper",
+    label: "Zig-zag print (wallpaper)",
+    icon: "/icons/items/zig-zagprint(wallpaper).png",
+  },
+  ZoomLens: {
+    slug: "zoom-lens",
+    label: "Zoom Lens",
+    icon: "/icons/items/zoomlens.png",
+  },
 } as const;
-export type ItemConst = (typeof Item)[keyof typeof Item];
 export type ItemKey = keyof typeof Item;
+/**
+ * Concrete item shape. Kept as a standalone interface (rather than
+ * `(typeof Item)[keyof typeof Item]`) so downstream types don't build a
+ * 1400+ member union, which TypeScript cannot represent (error TS2590).
+ */
+export type ItemConst = {
+  readonly slug: string;
+  readonly label: string;
+  readonly icon: string;
+};
+/** All items as a concrete-typed array (avoids a huge union in Object.values). */
+export const ALL_ITEMS: ItemConst[] = Object.values(
+  Item as unknown as Record<string, ItemConst>,
+);
+/** Items keyed by slug for O(1) lookup. */
+export const ITEM_BY_SLUG: Record<string, ItemConst> = Object.fromEntries(
+  ALL_ITEMS.map((i) => [i.slug, i]),
+);
